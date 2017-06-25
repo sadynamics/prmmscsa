@@ -1,0 +1,147 @@
+{
+    "station":
+    [
+     {
+     "name": "Pop Music Premium",
+     "streamURL": "http://19763.live.streamtheworld.com:3690/977_HITS_SC",
+     "imageURL": "popmusic",
+     "desc": "Best Music",
+     "longDesc": "Sub Pop is a record label founded in 1986 by Bruce Pavitt. In 1988, Sub Pop Records LLC was formed by Bruce Pavitt and Jonathan Poneman in Seattle, Washington. Sub Pop achieved fame in the late 1980s for first signing Nirvana, Soundgarden, Mudhoney and many other bands from the Seattle alternative rock scene."
+     },
+     {
+     "name": "Relaxing Music",
+     "streamURL": "http://rfcmedia.streamguys1.com/relaxation.mp3?aw_0_1st.playerid=RadioTime&aw_0_1st.skey=1498267492",
+     "imageURL": "relaxingmusic",
+     "desc": "Relaxing Music for Stress Relief",
+     "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+     },
+     {
+     "name": "Hot Hip-Hop",
+     "streamURL": "http://rfcmedia.streamguys1.com/hothiphop.mp3",
+     "imageURL": "hiphopr&b",
+     "desc": "Best station to listen while you studying finals or need to relax.",
+     "longDesc": "Radio 1190 is the bomb."
+     },
+     {
+     "name": "Classic Alternative Hits",
+     "streamURL": "http://rfcmedia.streamguys1.com/classicalternative.aac?aw_0_1st.playerid=RadioTime&aw_0_1st.skey=1498271152",
+     "imageURL": "classcalt",
+     "desc": "Midsized Record Label",
+     "longDesc": "Sub Pop is a record label founded in 1986 by Bruce Pavitt. In 1988, Sub Pop Records LLC was formed by Bruce Pavitt and Jonathan Poneman in Seattle, Washington. Sub Pop achieved fame in the late 1980s for first signing Nirvana, Soundgarden, Mudhoney and many other bands from the Seattle alternative rock scene."
+     },
+     {
+     "name": "ABC Classic FM",
+     "streamURL": "http://live-radio02.mediahubaustralia.com/2FMW/mp3/;",
+     "imageURL": "maxresdefault (5)",
+     "desc": "Best station to listen while you studying finals or need to relax.",
+     "longDesc": "Radio 1190 is the bomb."
+     },
+     {
+     "name": "Classic Hits",
+     "streamURL": "http://rfcmedia.streamguys1.com/classicoldies.mp3?aw_0_1st.playerid=RadioTime&aw_0_1st.skey=1498268026",
+     "imageURL": "station-classicrock",
+     "desc": "Classic Rock Hits",
+     "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+     },
+     {
+     "name": "Hip-Hop Hits Explicit",
+     "streamURL": "http://rfcmedia.streamguys1.com/hiphophits.mp3?aw_0_1st.playerid=RadioTime&aw_0_1st.skey=1498270856",
+     "imageURL": "station-classicrock",
+     "desc": "Classic Rock Hits",
+     "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+     },
+     
+     {
+     "name": "Pop Music",
+     "streamURL": "http://provisioning.streamtheworld.com/pls/METRO_FMAAC.pls",
+     "imageURL": "maxresdefault (5)",
+     "desc": "Best station to listen while you studying finals or need to relax.",
+     "longDesc": "Radio 1190 is the bomb."
+     },
+     
+     {
+     "name": "Pop Hits",
+     "streamURL": "http://rfcmedia.streamguys1.com/newpophits.mp3",
+     "imageURL": "station-sub.png",
+     "desc": "Midsized Record Label",
+     "longDesc": "Sub Pop is a record label founded in 1986 by Bruce Pavitt. In 1988, Sub Pop Records LLC was formed by Bruce Pavitt and Jonathan Poneman in Seattle, Washington. Sub Pop achieved fame in the late 1980s for first signing Nirvana, Soundgarden, Mudhoney and many other bands from the Seattle alternative rock scene."
+     },
+     {
+     "name": "Kiss92",
+     "streamURL": "http://sph.rastream.com/sph-kiss92",
+     "imageURL": "station-80s",
+     "desc": "Totally Rad",
+     "longDesc": "80s Baby! The '80s is not about nostalgia; it is about a decade of people, decisions and inventions that changed our future, told from the perspective of unknowing history makers who lived these iconic moments."
+     },
+     {
+     "name": "BBC Radio 1",
+     "streamURL": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_q?s=1498263468&e=1498277868&h=f3f085c7204a0e339adb2b43b4183abf",
+     "imageURL": "station-classicrock",
+     "desc": "Classic Rock Hits",
+     "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+     },
+     
+     {
+     "name": "ABC Jazz",
+     "streamURL": "http://www.abc.net.au/res/streaming/audio/mp3/abc_jazz.pls",
+     "imageURL": "station-classicrock",
+     "desc": "Classic Rock Hits",
+     "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+     },
+     
+     
+     {
+     "name": "Redbull Radio",
+     "streamURL": "http://broadcast.rbmaradio.net/main",
+     "imageURL": "station-classicrock",
+     "desc": "Classic Rock Hits",
+     "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+     },
+     
+     
+     {
+     "name": "Capital London",
+     "streamURL": "http://media-the.musicradio.com/Capital",
+     "imageURL": "station-classicrock",
+     "desc": "Classic Rock Hits",
+     "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+     },
+     {
+     "name": "Xtra Radio",
+     "streamURL": "http://lams02.xtraradio.nl/hits",
+     "imageURL": "station-classicrock",
+     "desc": "All hits music.",
+     "longDesc": "XTRA RADIO Plays All Your Favorite Hit Music Station 24 hours a day. Request Your Favorites now at Twitter @XTRARADIO"
+     },
+     {
+     "name": "70's Hits",
+     "streamURL": "http://rfcmedia.streamguys1.com/70hits.mp3",
+     "imageURL": "station-classicrock",
+     "desc": "Classic Rock Hits",
+     "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+     },
+     {
+     "name": "80's Hits",
+     "streamURL": "http://rfcmedia.streamguys1.com/80hits.mp3",
+     "imageURL": "station-classicrock",
+     "desc": "All hits music.",
+     "longDesc": "XTRA RADIO Plays All Your Favorite Hit Music Station 24 hours a day. Request Your Favorites now at Twitter @XTRARADIO"
+     },
+     {
+     "name": "70's Hits",
+     "streamURL": "http://rfcmedia.streamguys1.com/70hits.mp3",
+     "imageURL": "station-classicrock",
+     "desc": "Classic Rock Hits",
+     "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+     },
+     
+     {
+     "name": "Power 96 ",
+     "streamURL": "http://17633.live.streamtheworld.com/WPOWFM_SC",
+     "imageURL": "station-classicrock",
+     "desc": "",
+     "longDesc": "Power 96 Plays All Your Favorite Hit Music Station 24 hours a day."
+     },
+     
+    ]
+}
