@@ -136,6 +136,20 @@
      "desc": "",
      "longDesc": "Power 96 Plays All Your Favorite Hit Music Station 24 hours a day."
      },
-     
+     {
+     "name": "Power 92- Hip Hop",
+     "streamURL": "http://15063.live.streamtheworld.com:3690/WPWXFM_SC",
+     "imageURL": "",
+     "desc": "",
+     "longDesc": "Power 92- All day Hip-Hop R&B stream."
+     },
+    {
+     "name": "WIXX - Hits",
+     "streamURL": "http://17943.live.streamtheworld.com/WIXXFM_SC",
+     "imageURL": "",
+     "desc": "",
+     "longDesc": "Hit music stream all day."
+     },
+    
     ]
 }
