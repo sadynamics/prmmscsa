@@ -150,6 +150,12 @@
      "desc": "",
      "longDesc": "Hit music stream all day."
      },
-    
+    {
+     "name": "KMHX Mix 104.9",
+     "streamURL": "http://54.161.28.174/sonoma-kmhxfmmp3-ibc3?session-id=f28a7a0810b272c58ad0372e5339e440&source=tunein",
+     "imageURL": "",
+     "desc": "",
+     "longDesc": ""
+     },
     ]
 }
