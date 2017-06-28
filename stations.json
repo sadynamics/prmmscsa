@@ -46,7 +46,7 @@
      {
      "name": "Hip-Hop Hits Explicit",
      "streamURL": "http://rfcmedia.streamguys1.com/hiphophits.mp3?aw_0_1st.playerid=RadioTime&aw_0_1st.skey=1498270856",
-     "imageURL": "",
+     "imageURL": "https://www.musiccrowns.org/wp-content/uploads/2016/06/hip-hop.jpg",
      "desc": "",
      "longDesc": "Hip hop & R&b"
      },
@@ -84,7 +84,7 @@
      {
      "name": "ABC Jazz",
      "streamURL": "http://www.abc.net.au/res/streaming/audio/mp3/abc_jazz.pls",
-     "imageURL": "station-classicrock",
+     "imageURL": "http://www.abc.net.au/dig/covers/abcjazz_logo.jpg",
      "desc": "",
      "longDesc": "For jazz lovers."
      },
@@ -93,7 +93,7 @@
      {
      "name": "Redbull Radio",
      "streamURL": "http://broadcast.rbmaradio.net/main",
-     "imageURL": "station-classicrock",
+     "imageURL": "http://image.redbull.com/rbx00264/0100/0/406/landing-page/follow/en/1_RB_Radio_2017_Main.png",
      "desc": "",
      "longDesc": "If you wanna fly this is for you."
      },
@@ -102,21 +102,21 @@
      {
      "name": "Capital London",
      "streamURL": "http://media-the.musicradio.com/Capital",
-     "imageURL": "station-classicrock",
+     "imageURL": "https://pbs.twimg.com/profile_images/744812714187325442/MvDG7HCO.jpg",
      "desc": "Best station of London.",
      "longDesc": ""
      },
      {
      "name": "Xtra Radio",
      "streamURL": "http://lams02.xtraradio.nl/hits",
-     "imageURL": "station-classicrock",
+     "imageURL": "https://pbs.twimg.com/profile_images/866931194717511680/bxhi6w1L.jpg",
      "desc": "All hits music.",
      "longDesc": "XTRA RADIO Plays All Your Favorite Hit Music Station 24 hours a day. Request Your Favorites now at Twitter @XTRARADIO"
      },
      {
      "name": "70's Hits",
      "streamURL": "http://rfcmedia.streamguys1.com/70hits.mp3",
-     "imageURL": "station-classicrock",
+     "imageURL": "https://resources.tidal.com/images/83d8d4c1/53be/4911/af56/1fb2a3a07236/1280x1280.jpg",
      "desc": "Best way to listen 80's music.",
      "longDesc": ""
      },
