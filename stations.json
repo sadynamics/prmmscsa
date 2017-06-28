@@ -5,8 +5,8 @@
      "name": "Pop Music Premium",
      "streamURL": "http://19763.live.streamtheworld.com:3690/977_HITS_SC",
      "imageURL": "popmusic",
-     "desc": "Best Music source",
-     "longDesc": ""
+     "desc": "",
+     "longDesc": "The best hit pop music all day."
      },
      {
      "name": "Relaxing Music",
@@ -71,14 +71,14 @@
      "streamURL": "http://sph.rastream.com/sph-kiss92",
      "imageURL": "station-80s",
      "desc": "",
-     "longDesc": "80s Baby! The '80s is not about nostalgia; it is about a decade of people, decisions and inventions that changed our future, told from the perspective of unknowing history makers who lived these iconic moments."
+     "longDesc": ""
      },
      {
      "name": "BBC Radio 1",
      "streamURL": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_q?s=1498263468&e=1498277868&h=f3f085c7204a0e339adb2b43b4183abf",
      "imageURL": "https://vignette3.wikia.nocookie.net/milgreen/images/c/c0/BBC_%28Milgreen%29.png",
      "desc": "",
-     "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+     "longDesc": ""
      },
      
      {
@@ -86,7 +86,7 @@
      "streamURL": "http://www.abc.net.au/res/streaming/audio/mp3/abc_jazz.pls",
      "imageURL": "station-classicrock",
      "desc": "",
-     "longDesc": ""
+     "longDesc": "For jazz lovers."
      },
      
      
@@ -95,7 +95,7 @@
      "streamURL": "http://broadcast.rbmaradio.net/main",
      "imageURL": "station-classicrock",
      "desc": "",
-     "longDesc": ""
+     "longDesc": "If you wanna fly this is for you."
      },
      
      
@@ -103,7 +103,7 @@
      "name": "Capital London",
      "streamURL": "http://media-the.musicradio.com/Capital",
      "imageURL": "station-classicrock",
-     "desc": "",
+     "desc": "Best station of London.",
      "longDesc": ""
      },
      {
@@ -117,7 +117,7 @@
      "name": "70's Hits",
      "streamURL": "http://rfcmedia.streamguys1.com/70hits.mp3",
      "imageURL": "station-classicrock",
-     "desc": "",
+     "desc": "Best way to listen 80's music.",
      "longDesc": ""
      },
      {
@@ -125,15 +125,9 @@
      "streamURL": "http://rfcmedia.streamguys1.com/80hits.mp3",
      "imageURL": "station-80s",
      "desc": "All hits music.",
-     "longDesc": "XTRA RADIO Plays All Your Favorite Hit Music Station 24 hours a day. Request Your Favorites now at Twitter @XTRARADIO"
+     "longDesc": "80s Baby! The '80s is not about nostalgia; it is about a decade of people, decisions and inventions that changed our future, told from the perspective of unknowing history makers who lived these iconic moments."
      },
-     {
-     "name": "70's Hits",
-     "streamURL": "http://rfcmedia.streamguys1.com/70hits.mp3",
-     "imageURL": "",
-     "desc": "Classic Rock Hits",
-     "longDesc": ""
-     },
+     
      
      {
      "name": "Power 96 ",
