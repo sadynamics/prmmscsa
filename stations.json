@@ -157,5 +157,12 @@
      "desc": "",
      "longDesc": ""
      },
+        {
+     "name": "KZST-FM1 100.1",
+     "streamURL": "http://icy2.abacast.com/redwoodempire-kzst-32",
+     "imageURL": "",
+     "desc": "",
+     "longDesc": ""
+     },
     ]
 }
