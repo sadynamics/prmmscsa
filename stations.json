@@ -164,33 +164,6 @@
      "desc": "",
      "longDesc": ""
      },
-        {
-     "name": "Planet Radio",
-     "streamURL": "http://mp3.planetradio.de/planetradio/livestream.mp3",
-     "imageURL": "https://www.radioteleffh.de/fileadmin/fm-dam/radioteleffh.de/unsere_sender/planet_logo_neu.jpg",
-     "desc": "",
-     "longDesc": " planet radio – entdecke neue musik! erlebe pop, dance, house, hip-hop und r'n'b 24 stunden nonstop."
-     },
-        {
-     "name": "Radio Express",
-     "streamURL": "http://85.248.7.162:8000/64.mp3",
-     "imageURL": "https://pbs.twimg.com/profile_images/1609254580/twitter.png",
-     "desc": "",
-     "longDesc": " Full hit music."
-     },
-        {
-     "name": "Dolfjin FM",
-     "streamURL": "http://85.214.231.253:8080/stream.mp3?sid=1",
-     "imageURL": "",
-     "desc": "",
-     "longDesc": "  Dolfijn FM is het grootste Nederlandstalige radiostation van Curaçao en Bonaire. Met 24 uur per dag muziek, entertainment en nieuws is het station al jaren toonaangevend. Dolfijn FM heeft gepresenteerde programma's van 5 uur 's morgens tot 9 uur 's avonds"
-     },
-         {
-     "name": "Radyo Fenomen",
-     "streamURL": "http://85.214.231.253:8080/stream.mp3?sid=1",
-     "imageURL": "https://pbs.twimg.com/profile_images/378800000369132725/3285bf1a712a82b6d6cdd9ef92c200c9_400x400.jpeg",
-     "desc": "",
-     "longDesc": "  Radyo Fenomen Her saat kesintisiz 10Hit sloganıyla hitleri radyolarınıza ulaştırıyor."
-     },
+        
     ]
 }
