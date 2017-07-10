@@ -194,7 +194,7 @@
      },  
            {
      "name": "1LIVE FM",
-     "streamURL": " http://wdr-1live-live.cast.addradio.de/wdr/1live/live/mp3/56/stream.mp3?ar-distributor=f0a1",
+     "streamURL": "http://wdr-1live-live.cast.addradio.de/wdr/1live/live/mp3/56/stream.mp3?ar-distributor=f0a1",
      "imageURL": "",
      "desc": "",
      "longDesc": " 1LIVE ist das unangepasste Radio des WDR: provokant, anders und immer in Bewegung. Euer Freundeskreis im Sektor!"
