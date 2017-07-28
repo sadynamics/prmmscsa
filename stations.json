@@ -179,11 +179,11 @@
      "longDesc": " Full hit music."
      },
         {
-     "name": "Dolfjin FM",
-     "streamURL": "http://85.214.231.253:8080/stream.mp3?sid=1",
+     "name": "Vibration FM",
+     "streamURL": "http://vibration.ice.infomaniak.ch/vibration-high.aac",
      "imageURL": "",
      "desc": "",
-     "longDesc": "  Dolfijn FM is het grootste Nederlandstalige radiostation van Curaçao en Bonaire. Met 24 uur per dag muziek, entertainment en nieuws is het station al jaren toonaangevend. Dolfijn FM heeft gepresenteerde programma's van 5 uur 's morgens tot 9 uur 's avonds"
+     "longDesc": "En mode Vibration, la plus grande playlist : à tout moment de votre journée, les titres que vous aimez, des meilleures nouveautés aux classiques des années 2000.Retrouvez toutes les fréquences FM en Région Centre, Pays de la Loire, Bourgogne, Essonne et Allier sur Vibration.fr"
      },
          {
      "name": "Radyo Fenomen",
@@ -198,6 +198,13 @@
      "imageURL": "",
      "desc": "",
      "longDesc": " 1LIVE ist das unangepasste Radio des WDR: provokant, anders und immer in Bewegung. Euer Freundeskreis im Sektor!"
+     },
+        {
+     "name": "Jam FM Black Label",
+     "streamURL": "http://jamfm.hoerradar.de/jamfm-blacklabel-mp3-192?sABC=597ons51%230%238o143s258r9r78946rprr1p98son02p8%23gharva&amsparams=playerid:tunein;skey:1501278033",
+     "imageURL": "",
+     "desc": "",
+     "longDesc": "Wenn du Lust auf nonstop Black Music hast, bist du bei JAM FM Black Label genau richtig."
      },
     ]
 }
