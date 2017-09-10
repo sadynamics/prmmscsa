@@ -235,15 +235,49 @@
      "desc": "",
      "longDesc": "Join Randy Snow, Brad Michaels, and Jeff Louis among others for morning shows and popular music."
      }, 
-        
+        {
+     "name": "Cheesy FM",
+     "streamURL": "http://5.39.71.159:8502/stream.aac",
+     "imageURL": "",
+     "desc": "",
+     "longDesc": "Cheesy FM is home to all things cheesy. Pop, Dance, Boy-Bands, One-Hit Wonders, Camp Classics, Party Anthems, 70s, 80s, 90s & the big songs of today! Pure cheese, and proud of it."
+     },
      {
+     "name": "Z108",
+     "streamURL": "http://188.40.32.140:8295/stream",
+     "imageURL": "",
+     "desc": "Z108 is The Internet's #1 Hit Music Station! Home of The Z Morning Rush!",
+     "longDesc": "All of Today's Biggest Hits"
+     },   
+       {
+     "name": "Energy 106.9",
+     "streamURL": "http://16923.live.streamtheworld.com:3690/WNRGFM_SC",
+     "imageURL": "",
+     "desc": "",
+     "longDesc": "All of Today's Biggest Hits"
+     }, 
+     {
+     "name": "Hot 105.5",
+     "streamURL": "http://newcap.leanstream.co/CKQKFM?args=tunein_02 ",
+     "imageURL": "",
+     "desc": "",
+     "longDesc": "HOT 105.5 is legally known as CKQK-FM, and is owned and operated by Newcap Broadcasting Ltd."
+     },  
+       {
+     "name": "The Hits Mixx",
+     "streamURL": "http://listen.djcmedia.com/hitsmixxlow ",
+     "imageURL": "",
+     "desc": "Only the hits here! The top ranked hits of today and yesterday!",
+     "longDesc": "All of Today's Biggest Hits"
+     }, 
+        
+        {
      "name": "K-Hits 106.9",
      "streamURL": "http://18243.live.streamtheworld.com:3690/KHTTFMAAC_SC2",
      "imageURL": "",
      "desc": "",
      "longDesc": "All of Today's Biggest Hits"
-     },    
-      
+     },
      {
      "name": "Live 99.9",
      "streamURL": "http://icy1.abacast.com/wsbt-whfbfmaac-48",
