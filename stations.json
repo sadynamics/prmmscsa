@@ -213,5 +213,88 @@
      "desc": "",
      "longDesc": "Wenn du Lust auf nonstop Black Music hast, bist du bei JAM FM Black Label genau richtig."
      },
+        
+     {
+     "name": "Hot 89.9",
+     "streamURL": "http://newcap.leanstream.co/CIHTFM?args=tunein_02",
+     "imageURL": "",
+     "desc": "",
+     "longDesc": "Ottawa’s only hit music station, The New HOT 89-9 FM (CIHT-FM) plays the music of today in a format best described as ‘Rhythmic CHR’.The New HOT 89-9 FM launched on February 7th, 2003, playing fifteen of the top twenty selling artists on the continent according to Billboard Magazine... and it’s stayed that way since."
+     },
+       {
+     "name": "Hot 97.7",
+     "streamURL": "http://192.211.51.158:5353/stream",
+     "imageURL": "",
+     "desc": "",
+     "longDesc": "Hot 97.7 Broadcast Live from a studio instead of randomly playing some uploaded tracks. Check out JD's playhouse and all your favorite Hit music."
+     }, 
+      {
+     "name": "Hits FM 99.1",
+     "streamURL": "http://newcap.leanstream.co/CKIXFM?args=tunein_02",
+     "imageURL": "",
+     "desc": "",
+     "longDesc": "Join Randy Snow, Brad Michaels, and Jeff Louis among others for morning shows and popular music."
+     }, 
+        
+     {
+     "name": "K-Hits 106.9",
+     "streamURL": "http://18243.live.streamtheworld.com:3690/KHTTFMAAC_SC2",
+     "imageURL": "",
+     "desc": "",
+     "longDesc": "All of Today's Biggest Hits"
+     },    
+      
+     {
+     "name": "Live 99.9",
+     "streamURL": "http://icy1.abacast.com/wsbt-whfbfmaac-48",
+     "imageURL": "",
+     "desc": "",
+     "longDesc": "Live 99.9 is #1 for New Music. We play 25 in a row and feature Booke & Jubal in the morning."
+     },  
+        
+     {
+     "name": "Z102.9",
+     "streamURL": "http://icy2.abacast.com/kziainc-kziafm-48",
+     "imageURL": "",
+     "desc": "",
+     "longDesc": "Only Best Music."
+     },
+        {
+     "name": "Hits 999",
+     "streamURL": "http://16143.live.streamtheworld.com:3690/KIOAHD2_SC",
+     "imageURL": "",
+     "desc": "",
+     "longDesc": "Only Best Music."
+     },
+         {
+     "name": "NextGen FM",
+     "streamURL": "http://listen.djcmedia.com/nextgenfmlow",
+     "imageURL": "",
+     "desc": "",
+     "longDesc": "The biggest all night dance party on radio!"
+     },
+       {
+     "name": "96.3 VIP",
+     "streamURL": "http://cabhs35.sonixcast.com:20034/stream",
+     "imageURL": "",
+     "desc": "",
+     "longDesc": "Only Best Music."
+     }, 
+      {
+     "name": "Slam 101.1",
+     "streamURL": "http://usa4.fastcast4u.com:5006/;",
+     "imageURL": "",
+     "desc": "",
+     "longDesc": "We invite you to relax, enjoy and listen to our entertainingly modern format of radio and we eagerly anticipate entertaining your every day. On behalf of our entire team we sincerely hope that you enjoy Barbados’ newest radio station as we dedicate SLAM FM to YOU. ."
+     },  
+      
+     {
+     "name": "Hot 107.9",
+     "streamURL": "http://18133.live.streamtheworld.com:3690/WJFXFMAAC_SC",
+     "imageURL": "",
+     "desc": "",
+     "longDesc": "HOT1079 Plays The Hits in Fort Wayne. All of the hottest current hits, and #1 for new hit music. The Bert Show weekday mornings!"
+     },   
+        
     ]
 }
