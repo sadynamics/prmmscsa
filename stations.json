@@ -68,7 +68,7 @@
      
      {
      "name": "Pop Hits",
-     "streamURL": "https://feed.tunein.com/profiles/s8224/nowPlaying?token=eyJwIjpmYWxzZSwidCI6IjIwMjItMTItMjlUMjI6MjU6MTEuNDk3NDI3N1oifQ&itemToken=BgkJAAMAAwABAAEAIiIAAgkFExwAAAATHAAAAA&formats=mp3,aac,ogg,flash,html,hls&serial=3fba9731-e990-4443-86d5-972cd80cf3f7&partnerId=RadioTime&version=5.3603&itemUrlScheme=secure&reqAttempt=1",
+     "streamURL": "https://23623.live.streamtheworld.com/METRO_FM_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY3MjM1Mzc2MywiaXNzIjoidGlzcnYifQ.sDkPIT6JV-2NSUifIq0a4oNVViOBaLER2p_IoOF0010",
      "imageURL": "popmusic",
      "desc": "All Hits",
      "longDesc": ""
