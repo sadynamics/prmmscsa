@@ -68,7 +68,7 @@
      
      {
      "name": "Pop Hits",
-     "streamURL": "http://rfcmedia.streamguys1.com/newpophits.mp3",
+     "streamURL": "https://feed.tunein.com/profiles/s8224/nowPlaying?token=eyJwIjpmYWxzZSwidCI6IjIwMjItMTItMjlUMjI6MjU6MTEuNDk3NDI3N1oifQ&itemToken=BgkJAAMAAwABAAEAIiIAAgkFExwAAAATHAAAAA&formats=mp3,aac,ogg,flash,html,hls&serial=3fba9731-e990-4443-86d5-972cd80cf3f7&partnerId=RadioTime&version=5.3603&itemUrlScheme=secure&reqAttempt=1",
      "imageURL": "popmusic",
      "desc": "All Hits",
      "longDesc": ""
