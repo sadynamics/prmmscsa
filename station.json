@@ -41,8 +41,15 @@
      "name": "BBCXtra",
      "streamURL": "http://stream.live.vc.bbcmedia.co.uk/bbc_1xtra?s=1675372008&e=1675386408&h=726815e2ed42e1678dfccc555f8531e3",
      "imageURL": "",
-     "desc": "KVCU - Boulder, CO",
-     "longDesc": "Radio 1190 is the bomb."
+     "desc": "Best HipHop Music of UK",
+     "longDesc": ""
+     } ,
+     {
+     "name": "Metro FM",
+     "streamURL": "https://25643.live.streamtheworld.com/METRO_FM_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY3NTM4MDYzMiwiaXNzIjoidGlzcnYifQ.NTikE2Adt9_YPsIyPh5dV14QPpoqk401qxAj2FpHNoc",
+     "imageURL": "",
+     "desc": "Türkiye’nin en çok dinlenen yabancı müzik radyosu ve ilk ulusal yabancı müzik radyosu Metro FM.",
+     "longDesc": ""
      }
     ]
 }
