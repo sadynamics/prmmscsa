@@ -36,5 +36,13 @@
      "desc": "KVCU - Boulder, CO",
      "longDesc": "Radio 1190 is the bomb."
      }
+        ,
+     {
+     "name": "BBCXtra",
+     "streamURL": "http://stream.live.vc.bbcmedia.co.uk/bbc_1xtra?s=1675372008&e=1675386408&h=726815e2ed42e1678dfccc555f8531e3",
+     "imageURL": "",
+     "desc": "KVCU - Boulder, CO",
+     "longDesc": "Radio 1190 is the bomb."
+     }
     ]
 }
