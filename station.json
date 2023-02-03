@@ -92,6 +92,21 @@
      "imageURL": "",
      "desc": "Playing The Most Hit Music Online!",
      "longDesc": "Shakin’ It Up Description: Simply Hits FM previously known as Wanted FM has been Shakin’ It Up since 2018. We are a Online Community Radio station providing high quality entertainment, internationally with the help of our professional, volunteer presenters that play music for everyone. Alongside our Music, we offer hourly news bulletins, interviews, on-air competitions and whole host of other great stuff! Simply Hits FM is the place to be for your entertainment fix. We are a Online Community Radio station providing high quality entertainment, internationally with the help of our professional, volunteer presenters that play music for everyone. Alongside our Music, we offer hourly news bulletins, interviews, on-air competitions and whole host of other great stuff! Lite FM is the place to be for your entertainment fix. We are a Online Community Radio station providing high quality entertainment, internationally with the help of our professional, volunteer presenters that play music for everyone. Alongside our Music, we offer hourly news bulletins, interviews, on-air competitions and whole host of other great stuff! SimplyHits.co.uk is the place to be for your entertainment fix. Simply Hits FM and its sister stations, broadcast live, internationally, 24 hours a day. Interested in joining our team? If yes, then visit our website today."
-     }
+     },
+        {
+     "name": "Nova FM",
+     "streamURL": "https://streaming04.liveboxstream.uk/proxy/novafm/;?mp=/stream",
+     "imageURL": "",
+     "desc": "We are Nova FM, we play Newport's Best Music Mix. Hear us in Newport, Shropshire and the surrounding areas on 97.5 FM. We're on your mobile too.!",
+     "longDesc": "We are Nova FM, we play Newport's Best Music Mix. Hear us in Newport, Shropshire and the surrounding areas on 97.5 FM. We're on your mobile too.
+            "
+        },
+        {
+     "name": "BBC News",
+     "streamURL": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/w1msjtprcc9tw35.mp3",
+     "imageURL": "",
+     "desc": "The latest five minute news bulletin from BBC World Service.",
+     "longDesc": "The latest five minute news bulletin from BBC World Service.  "
+        }
     ]
 }
