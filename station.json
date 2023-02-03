@@ -99,14 +99,14 @@
      "imageURL": "",
      "desc": "We are Nova FM, we play Newport's Best Music Mix. Hear us in Newport, Shropshire and the surrounding areas on 97.5 FM. We're on your mobile too.!",
      "longDesc": "We are Nova FM, we play Newport's Best Music Mix. Hear us in Newport, Shropshire and the surrounding areas on 97.5 FM. We're on your mobile too.
-            "
+            ",
         },
         {
      "name": "BBC News",
      "streamURL": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/w1msjtprcc9tw35.mp3",
      "imageURL": "",
      "desc": "The latest five minute news bulletin from BBC World Service.",
-     "longDesc": "The latest five minute news bulletin from BBC World Service.  "
+     "longDesc": "The latest five minute news bulletin from BBC World Service.  ",
         }
     ]
 }
