@@ -161,6 +161,20 @@
      "imageURL": "",
      "desc": "",
      "longDesc": "Bussin' Radio is an international streaming radio station powered by the PCMUSICENT Network."
+     },
+     {
+     "name": "95.7 Tha Beat",
+     "streamURL": "https://ais-sa2.cdnstream1.com/2190_64.mp3",
+     "imageURL": "https://cdn-profiles.tunein.com/s232547/images/logod.png?t=638039653900000000",
+     "desc": "The Big Stick!!!",
+     "longDesc": ""
+     },
+     {
+     "name": "K-100 RADIO",
+     "streamURL": "https://usa4.fastcast4u.com/proxy/chainles?mp=/1",
+     "imageURL": "https://cdn-profiles.tunein.com/s198896/images/logod.png?t=637414990270000000",
+     "desc": "",
+     "longDesc": "Live 24/7 broadcast featuring music from major and independent artists, interviews, music reviews and live event coverage"
      }
      
     ]
