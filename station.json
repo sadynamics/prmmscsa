@@ -119,6 +119,36 @@
      "imageURL": "",
      "desc": "KVCU - Boulder, CO",
      "longDesc": "Radio 1190 is the bomb."
+     },
+     {
+     "name": "KUSC",
+     "streamURL": "https://18443.live.streamtheworld.com/KUSCMP128_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY3NTU0MjM4MiwiaXNzIjoidGlzcnYifQ.bMhfUmAAj1qsFRDq4tk52u9CaWDbBCr8icauMEv8zog",
+     "imageURL": "",
+     "desc": "Relaxing Classical Music",
+     "longDesc": "Listen to classical music all day on KUSC (91.5 MHz FM). Based in Los Angeles, KUSC offers a wide variety of classical music for listeners of all ages. To start streaming KUSC directly from 91.5 FM, select the play button below and stream instantly on any device.
+
+."
+     },
+     {
+     "name": "ESPN Chicago",
+     "streamURL": "https://prod-52-91-107-216.wostreaming.net/goodkarma-wmvpammp3-ibc1?session-id=87ee1f36e058220de6a94ea5f5a522c0&source=TuneIn&us_privacy=1YNY",
+     "imageURL": "",
+     "desc": "Only Sports",
+     "longDesc": ""
+     },
+     {
+     "name": "Big B Radio - KPOP",
+     "streamURL": "http://antares.dribbcast.com:4001/s",
+     "imageURL": "",
+     "desc": "Number 1 K-Pop Station",
+     "longDesc": "You are now listening to the #1 K-Pop internet radio station. Big B Radio's KPOP Channel plays the hottest Korean Pop hits from South Korea. Tune in for continuous K-POP music. Visit our website for access to 192kbps HQ streams."
+     },
+     {
+     "name": "Z99 Regina (Zed 99)",
+     "streamURL": "https://rawlco.leanstream.co/CIZLFM-MP3?args=tunein_01",
+     "imageURL": "",
+     "desc": "Regina's #1 Hit Music Station",
+     "longDesc": "Regina's #1 Hit Music Station."
      }
      
     ]
