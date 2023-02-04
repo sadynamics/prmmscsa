@@ -189,6 +189,20 @@
      "imageURL": "https://cdn-profiles.tunein.com/s203957/images/logod.png?t=637534223350000000",
      "desc": "",
      "longDesc": ""
+     },
+     {
+     "name": "Brass Radio",
+     "streamURL": "https://wav.carbonwav.com:1040/stream.mp3",
+     "imageURL": "https://cdn-profiles.tunein.com/s285270/images/logod.jpg?t=636860785660000000",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Energy Zürich",
+     "streamURL": " https://energyzuerich.ice.infomaniak.ch/energyzuerich-high.mp3",
+     "imageURL": "https://cdn-profiles.tunein.com/s47530/images/logod.jpg?t=637587784060000000",
+     "desc": "",
+     "longDesc": ""
      }
      
     ]
