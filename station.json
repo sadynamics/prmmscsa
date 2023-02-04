@@ -175,6 +175,20 @@
      "imageURL": "https://cdn-profiles.tunein.com/s198896/images/logod.png?t=637414990270000000",
      "desc": "",
      "longDesc": "Live 24/7 broadcast featuring music from major and independent artists, interviews, music reviews and live event coverage"
+     },
+     {
+     "name": "Slam! Juize",
+     "streamURL": "https://stream.slam.nl/web09_mp3?dist=tunein",
+     "imageURL": "https://cdn-profiles.tunein.com/s80824/images/logod.jpg?t=637598847490000000",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Jake Radio",
+     "streamURL": "https://jakeradio.radioca.st/stream2",
+     "imageURL": "https://cdn-profiles.tunein.com/s203957/images/logod.png?t=637534223350000000",
+     "desc": "",
+     "longDesc": ""
      }
      
     ]
