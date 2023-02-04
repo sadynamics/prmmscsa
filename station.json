@@ -147,6 +147,20 @@
      "imageURL": "https://cdn-radiotime-logos.tunein.com/s24692d.png",
      "desc": "Regina's #1 Hit Music Station",
      "longDesc": "Regina's #1 Hit Music Station."
+     },
+     {
+     "name": "Radio Regenbogen",
+     "streamURL": " https://audiotainment-sw.streamabc.net/atsw-hiphop-mp3-128-5590407?sABC=63qrp91q%230%238o2n6q24osrr18s4n1o9q664oo3oq06o%23gharva&aw_0_1st.playerid=tunein&amsparams=playerid:tunein;skey:1675544861",
+     "imageURL": "",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Bussin' Radio",
+     "streamURL": " https://19013.live.streamtheworld.com/SP_R4233592_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY3NTU0NDk3NiwiaXNzIjoidGlzcnYifQ.STU-4347Ld6NjJMKLpRemXN7L-Uo79vMdvSGf3SHJVA",
+     " imageURL": "",
+     "desc": "",
+     "longDesc": ""
      }
      
     ]
