@@ -18,35 +18,35 @@
      {
      "name": "Metro FM",
      "streamURL": "https://25643.live.streamtheworld.com/METRO_FM_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY3NTM4MDYzMiwiaXNzIjoidGlzcnYifQ.NTikE2Adt9_YPsIyPh5dV14QPpoqk401qxAj2FpHNoc",
-     "imageURL": "",
+     "imageURL": "https://www.radio.net/images/broadcasts/9e/b3/13682/c300.png",
      "desc": "Türkiye’nin en çok dinlenen yabancı müzik radyosu ve ilk ulusal yabancı müzik radyosu Metro FM.",
      "longDesc": ""
      },
      {
      "name": "Joy FM",
      "streamURL": "https://21303.live.streamtheworld.com/METRO_FM_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY3NTM4MTMxNCwiaXNzIjoidGlzcnYifQ.IUOMq6ko0fweZ4mNN1El4Cwdx2wc7GIeqT3Nu-F7p8o",
-     "imageURL": "",
+     "imageURL": "https://static.mytuner.mobi/media/tvos_radios/zhmk3Nsvwx.png",
      "desc": "Tüm zamanların en iyilerinin buluşma noktası Joy FM.",
      "longDesc": ""
      },
      {
      "name": "Urban Hitz Radio",
      "streamURL": "https://strw1.openstream.co/1633?aw_0_1st.collectionid%3D4906%26stationId%3D4906%26publisherId%3D1657%26k%3D1675381713%26aw_0_azn.pcountry%3D%5B%22US%22%5D%26aw_0_azn.planguage%3D%5B%22en%22%5D%26aw_0_azn.pgenre%3D%5B%22Urban+-+Hip-Hop%22%5D",
-     "imageURL": "",
+     "imageURL": "http://cdn-profiles.tunein.com/s51189/images/logod.png?t=637942149570000000",
      "desc": "Urban Hitz Radio is the People's Choice! We are the Internet's #1 premier hotspot for Hip-Hop and R&B!",
      "longDesc": ""
      },
         {
      "name": "Hot 108 Jamz",
      "streamURL": "https://live.powerhitz.com/hot108?aw_0_req.gdpr=true",
-     "imageURL": "",
+     "imageURL": "https://cdn-profiles.tunein.com/s18733/images/logog.png?t=636251",
      "desc": "Broadcasting Live 24/7 from New York City, New York!",
      "longDesc": ""
      },
         {
      "name": "Diverse FM",
      "streamURL": "https://icecast.mediaice.co.uk/DiverseMP3",
-     "imageURL": "",
+     "imageURL": "https://www.liveradio.ie/files/images/420977/resized/140x134c/diverse_fm.jpg",
      "desc": "Diverse FM plays Hit Music -NOW!",
      "longDesc": ""
      },
@@ -60,35 +60,35 @@
         {
      "name": "Simply Hits FM",
      "streamURL": "https://cleo.shoutca.st/listen/simply_hits_fm/radiohq.mp3",
-     "imageURL": "",
+     "imageURL": "https://www.liveradio.ie/files/images/518783/resized/180x172c/simply_hits_fm.jpg",
      "desc": "Playing The Most Hit Music Online!",
      "longDesc": "Shakin’ It Up Description: Simply Hits FM previously known as Wanted FM has been Shakin’ It Up since 2018. We are a Online Community Radio station providing high quality entertainment, internationally with the help of our professional, volunteer presenters that play music for everyone. Alongside our Music, we offer hourly news bulletins, interviews, on-air competitions and whole host of other great stuff! Simply Hits FM is the place to be for your entertainment fix. We are a Online Community Radio station providing high quality entertainment, internationally with the help of our professional, volunteer presenters that play music for everyone. Alongside our Music, we offer hourly news bulletins, interviews, on-air competitions and whole host of other great stuff! Lite FM is the place to be for your entertainment fix. We are a Online Community Radio station providing high quality entertainment, internationally with the help of our professional, volunteer presenters that play music for everyone. Alongside our Music, we offer hourly news bulletins, interviews, on-air competitions and whole host of other great stuff! SimplyHits.co.uk is the place to be for your entertainment fix. Simply Hits FM and its sister stations, broadcast live, internationally, 24 hours a day. Interested in joining our team? If yes, then visit our website today."
      },
         {
      "name": "Nova FM",
      "streamURL": "https://streaming04.liveboxstream.uk/proxy/novafm/;?mp=/stream",
-     "imageURL": "",
+     "imageURL": " https://static.mytuner.mobi/media/tvos_radios/lqzds6jnfsqr.png",
      "desc": "We are Nova FM, we play Newport's Best Music Mix. Hear us in Newport, Shropshire and the surrounding areas on 97.5 FM. We're on your mobile too.!",
      "longDesc": "We are Nova FM, we play Newport's Best Music Mix. Hear us in Newport, Shropshire and the surrounding areas on 97.5 FM. We're on your mobile too.",
         },
         {
      "name": "BBC News",
      "streamURL": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/w1msjtprcc9tw35.mp3",
-     "imageURL": "",
+     "imageURL": "https://media.wnyc.org/i/1200/627/l/80/2019/10/2019-bbc-news-tile-world-service-rgb.png",
      "desc": "The latest five minute news bulletin from BBC World Service.",
      "longDesc": "The latest five minute news bulletin from BBC World Service.  ",
         },
         {
      "name": "The Economist Podcasts",
      "streamURL": "https://sphinx.acast.com/p/open/s/39fc4a99-8861-437d-81e2-684d13e48f92/a/theeconomistallaudio/e/63dc13593c0b1d00118f618a/media.mp3",
-     "imageURL": "",
+     "imageURL": "https://cdn-profiles.tunein.com/p604262/images/logog.png?t=152638",
      "desc": "The latest five minute news bulletin from BBC World Service.",
      "longDesc": "Every weekday our global network of correspondents makes sense of the stories beneath the headlines. We bring you surprising trends and tales from around the world, current affairs, business and finance—as well as science and technology. Hosted on Acast. See acast.com/privacy for more information.  ",
         },
         {
      "name": "Hunter.FM - Pop",
      "streamURL": "https://live.hunter.fm/pop_high",
-     "imageURL": "",
+     "imageURL": "https://yt3.googleusercontent.com/ytc/AL5GRJWWYlbLMkFxoQgQXNsskLfzXW-RcU8U1fxod5OzSA=s900-c-k-c0x00ffffff-no-rj",
      "desc": "Hunter.FM - Pop.",
      "longDesc": "Os lançamentos e hits da música POP internacional, além de throwbacks incríveis e nostálgicos.  ",
         },
@@ -116,35 +116,35 @@
      {
      "name": "Radio 1190",
      "streamURL": "http://104.250.149.122:8082/stream",
-     "imageURL": "",
+     "imageURL": "https://images.squarespace-cdn.com/content/v1/554959f9e4b04cef2f6cfb06/1656198907370-1HSKEUE5B2BQF2CH5ITL/frontpage.png",
      "desc": "KVCU - Boulder, CO",
      "longDesc": "Radio 1190 is the bomb."
      },
      {
      "name": "KUSC",
      "streamURL": "https://18443.live.streamtheworld.com/KUSCMP128_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY3NTU0MjM4MiwiaXNzIjoidGlzcnYifQ.bMhfUmAAj1qsFRDq4tk52u9CaWDbBCr8icauMEv8zog",
-     "imageURL": "",
+     "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/e2/KUSC_Logo.jpg",
      "desc": "Relaxing Classical Music",
      "longDesc": "Listen to classical music all day on KUSC (91.5 MHz FM). Based in Los Angeles, KUSC offers a wide variety of classical music for listeners of all ages. To start streaming KUSC directly from 91.5 FM, select the play button below and stream instantly on any device."
      },
      {
      "name": "ESPN Chicago",
      "streamURL": "https://prod-52-91-107-216.wostreaming.net/goodkarma-wmvpammp3-ibc1?session-id=87ee1f36e058220de6a94ea5f5a522c0&source=TuneIn&us_privacy=1YNY",
-     "imageURL": "",
+     "imageURL": "https://goodkarmabrands.com/images/ESPN-Chicago-1000-am.jpg",
      "desc": "Only Sports",
      "longDesc": ""
      },
      {
      "name": "Big B Radio - KPOP",
      "streamURL": "http://antares.dribbcast.com:4001/s",
-     "imageURL": "",
+     "imageURL": "https://cdn-profiles.tunein.com/s135096/images/logog.png?t=158317",
      "desc": "Number 1 K-Pop Station",
      "longDesc": "You are now listening to the #1 K-Pop internet radio station. Big B Radio's KPOP Channel plays the hottest Korean Pop hits from South Korea. Tune in for continuous K-POP music. Visit our website for access to 192kbps HQ streams."
      },
      {
      "name": "Z99 Regina (Zed 99)",
      "streamURL": "https://rawlco.leanstream.co/CIZLFM-MP3?args=tunein_01",
-     "imageURL": "",
+     "imageURL": "https://cdn-radiotime-logos.tunein.com/s24692d.png",
      "desc": "Regina's #1 Hit Music Station",
      "longDesc": "Regina's #1 Hit Music Station."
      }
