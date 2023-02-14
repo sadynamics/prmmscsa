@@ -308,6 +308,34 @@
      "imageURL": "https://cdn-profiles.tunein.com/s84486/images/logod.jpg?t=637091455550000000",
      "desc": "",
      "longDesc": "FFH iTunes Top 40: Die iTunes Chartshow. Deutschlands erste Charts in Echtzeit!"
+     },
+     {
+     "name": "100% NL",
+     "streamURL": "https://21313.live.streamtheworld.com/100PNL_MP3_SC?dist=TUNEIN",
+     "imageURL": "https://cdn-profiles.tunein.com/s76590/images/logod.jpg?t=637596571900000000",
+     "desc": "",
+     "longDesc": "Luister gratis naar 100% NL Radio online. Stream 104.4 FM en maak kennis met Nederlandstalige live radio en muziek uit Nederland."
+     },
+     {
+     "name": "Cheesy FM",
+     "streamURL": "https://listen-cheesyfm.sharp-stream.com/cheesyfm.mp3",
+     "imageURL": "https://cdn-profiles.tunein.com/s84486/images/logod.jpg?t=637091455550000000",
+     "desc": "",
+     "longDesc": "Cheesy FM is home to all things cheesy. Pop, Dance, Boy-Bands, One-Hit Wonders, Camp Classics, Party Anthems, the 70s, 80s, 90s & the big songs of today! Pure cheese, and proud of it."
+     },
+     {
+     "name": "FFH iTunes Top 40",
+     "streamURL": "https://mp3.ffh.de/ffhchannels/hqtop40.mp3?amsparams=playerid:RTFFHTunein;skey:1676349920",
+     "imageURL": "https://cdn-profiles.tunein.com/s84486/images/logod.jpg?t=637091455550000000",
+     "desc": "",
+     "longDesc": "FFH iTunes Top 40: Die iTunes Chartshow. Deutschlands erste Charts in Echtzeit!"
+     },
+     {
+     "name": "Dance FM",
+     "streamURL": "https://stream-16.zeno.fm/cygwwun7a5zuv?zs=gPZHJWQJS56bPCVrqGyjpQ",
+     "imageURL": "https://cdn-profiles.tunein.com/s303095/images/logod.png?t=637881006920000000",
+     "desc": "",
+     "longDesc": "Hello and Welcome to ''Circuito Dance''. Circuito Dance is a passion project establishes in November 2018. It is about passion for radio, passion for electronic music, passion for fun remixes music, and passion for uplifting music that makes you feel good. This internet based radio station, ''Circuito Dance'', broadcasts hits musics and remixes from yesterday and today and features DJ sets from the hottest DJs from around the world as well as the best group of radios such as: Dance FM ''Playing The Music You Love'', Hot Dance Radio ''Hits With The Beat!'' & HITZ FM ''All The Hitz, All The Time''. And, now, 90s HITS ''We Love Them''. Additionally, the best soft music in English and Spanish. Romantic FM ''Straight To Your Heart'', Romántica ''No Solo Se Escucha, También Se Siente'', Jazz FM ''Feel the Music'', Italo Dance ''The Sound of Disco''. And, now, Classics FM ''Music Made Classics''. Thank you for listening us!"
      }
      
     ]
