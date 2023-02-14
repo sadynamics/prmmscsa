@@ -203,6 +203,48 @@
      "imageURL": "https://cdn-profiles.tunein.com/s47530/images/logod.jpg?t=637587784060000000",
      "desc": "",
      "longDesc": ""
+     },
+     {
+     "name": "Deep Radio",
+     "streamURL": " https://25303.live.streamtheworld.com/DEEP_RADIO.mp3?tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.eyJpc3MiOiJ0aXNydiIsInN1YiI6IjI2NDc2NDcyMyIsImlhdCI6MTY3NjM0NTY5MSwidGQtcmVnIjpmYWxzZX0._zjAvJdLhI8HMRESMbvW7U9mbBQNZ2Lf0AA7iF0oq2Y&DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY3NjM0NTY5MSwiaXNzIjoidGlzcnYifQ.YcYv_x83x5Je3qmZEc38G04rjnnmycJqhBqXUINJvt4",
+     "imageURL": "https://cdn-profiles.tunein.com/s54426/images/logod.png?t=636307115970900000",
+     "desc": "Het absolute nummer 1 radio station met 24x7 het nieuwste en beste op het gebied van House & Dance!",
+     "longDesc": "Het absolute nummer 1 radio station met 24x7 het nieuwste en beste op het gebied van House & Dance!"
+     },
+     {
+     "name": "1.FM - Slow Jamz Radio",
+     "streamURL": " https://strm112.1.fm/slowjamz_mobile_mp3",
+     "imageURL": "https://cdn-radiotime-logos.tunein.com/s197118d.png",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Power XL",
+     "streamURL": "http://powerextralounge.listenpowerapp.com/powerextralounge/mpeg/icecast.audio",
+     "imageURL": "https://cdn-profiles.tunein.com/s82254/images/logod.jpg?t=636445096217500000",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "95.7 Tha Beat",
+     "streamURL": " https://ais-sa2.cdnstream1.com/2190_64.mp3",
+     "imageURL": "https://cdn-profiles.tunein.com/s232547/images/logod.png?t=638039653900000000",
+     "desc": "The Big Stick!!!",
+     "longDesc": ""
+     },
+     {
+     "name": "MyBeat 94.7 fm",
+     "streamURL": " https://eu1-sonic.serverse.com:7011",
+     "imageURL": "https://cdn-radiotime-logos.tunein.com/s154759d.png",
+     "desc": "Beat 94.7 fm the community Station for the community, playing the Music of the community, the only station in the community that listens to the community, that bang the hitz you wanna hear.",
+     "longDesc": ""
+     },
+     {
+     "name": "GotRadio Piano Perfect",
+     "streamURL": " https://pureplay.cdnstream1.com/6017_64.aac",
+     "imageURL": "https://cdn-profiles.tunein.com/s99668/images/logod.jpg?t=637695626030000000",
+     "desc": "Solo piano masterpieces. Featuring all the current piano soloists.",
+     "longDesc": ""
      }
      
     ]
