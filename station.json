@@ -266,6 +266,13 @@
      "imageURL": "https://cdn-profiles.tunein.com/s308325/images/logod.png?t=636953233860000000",
      "desc": "The LGBTQ+ Station for Manchester",
      "longDesc": ""
+     },
+     {
+     "name": "Power XL",
+     "streamURL": "http://powerextralounge.listenpowerapp.com/powerextralounge/mpeg/icecast.audio",
+     "imageURL": "https://cdn-profiles.tunein.com/s82254/images/logod.jpg?t=636445096217500000",
+     "desc": "",
+     "longDesc": ""
      }
      
     ]
