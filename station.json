@@ -273,6 +273,13 @@
      "imageURL": "https://cdn-profiles.tunein.com/s297336/images/logod.png?t=638099026230000000",
      "desc": "",
      "longDesc": "Juice is home to Belfast's Good Time anthems 24/7"
+     },
+     {
+     "name": "Hot 97.7",
+     "streamURL": "https://kathy.torontocast.com:3785/stream",
+     "imageURL": "https://cdn-profiles.tunein.com/s123480/images/logod.jpg?t=636649208757070000",
+     "desc": "",
+     "longDesc": "Hot 97.7 is your radio station playlist for Today's Best Music! We offer a fun, energetic, and adult approach to contemporary hit music while playing the songs you love, sharing pop culture that shapes the day, and giving you access to see and meet your favorite bands and artists!"
      }
      
     ]
