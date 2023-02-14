@@ -280,6 +280,20 @@
      "imageURL": "https://cdn-profiles.tunein.com/s123480/images/logod.jpg?t=636649208757070000",
      "desc": "",
      "longDesc": "Hot 97.7 is your radio station playlist for Today's Best Music! We offer a fun, energetic, and adult approach to contemporary hit music while playing the songs you love, sharing pop culture that shapes the day, and giving you access to see and meet your favorite bands and artists!"
+     },
+     {
+     "name": "Antenne Bad Kreuznach",
+     "streamURL": "https://radiogroup-stream09.radiohost.de/antenne-badkreuznach_mp3-192?ref=tunein",
+     "imageURL": "https://cdn-radiotime-logos.tunein.com/s96121d.png",
+     "desc": "",
+     "longDesc": "Das Radio für die Region von Bad Kreuznach bis Idar-Oberstein. Auf UKW 88,3 MHz, im Kabelnetz über 89.45 und auf DAB+ auf Kanal 12a."
+     },
+     {
+     "name": "The Fox 99.9",
+     "streamURL": "https://blackburn-ais.leanstream.co/CFGXFM-MP3?args=tuneIn_01&DIST=TuneIn&TGT=TuneIn&maxServers=2&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY3NjM0OTYyNywiaXNzIjoidGlzcnYifQ.cYmNnGmiiG4tWTNYFMIxhS3IQxH8PjwQuowTtaYkHZU",
+     "imageURL": "https://cdn-profiles.tunein.com/s31121/images/logod.jpg?t=636609417620370000",
+     "desc": "",
+     "longDesc": "Current pop hits with throwback songs on Thursdays."
      }
      
     ]
