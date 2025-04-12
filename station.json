@@ -1,6 +1,41 @@
 {
     "station":
     [
+        {
+    "name": "Radio Disney",
+    "streamURL": "http://icecast.abacast.net/disney-disneychannelmp3-64",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Radio_Disney_logo.svg/200px-Radio_Disney_logo.svg.png",
+    "desc": "Family-friendly pop hits and songs from Disney artists.",
+    "longDesc": "Radio Disney offers a mix of popular music tailored for a younger audience, featuring tracks from Disney movies, TV shows, and young pop artists. It's a go-to station for families and fans of upbeat, clean pop music."
+  },
+  {
+    "name": "NRJ Hits",
+    "streamURL": "http://cdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/NRJ_Logo.svg/200px-NRJ_Logo.svg.png",
+    "desc": "France's top hit music station, broadcasting internationally.",
+    "longDesc": "NRJ (Nouvelle Radio Jeune) is a French multimedia group known for its popular hit music radio station. NRJ Hits plays a mix of contemporary pop, dance, and R&B music, and is accessible in various countries through online streaming."
+  },
+  {
+    "name": "Kiss FM Australia",
+    "streamURL": "http://stream.kissfm.com.au:8000/kissfm.mp3",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Kiss_Logo_2019.svg/200px-Kiss_Logo_2019.svg.png",
+    "desc": "Australia's leading dance music station.",
+    "longDesc": "Kiss FM Australia is renowned for its dance music programming, featuring a mix of house, techno, and electronic beats. It's a favorite among club-goers and electronic music enthusiasts down under."
+  },
+  {
+    "name": "Energy FM",
+    "streamURL": "http://s2.viastreaming.net:7015/;",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/NRJ_Logo.svg/200px-NRJ_Logo.svg.png",
+    "desc": "The best mix of today's hits and throwbacks.",
+    "longDesc": "Energy FM offers a vibrant mix of current chart-toppers and classic hits, catering to a broad audience that enjoys both new releases and nostalgic tracks."
+  },
+  {
+    "name": "The Beat",
+    "streamURL": "http://streaming.radio.co/s95f38c4fa/listen",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Radio_Disney_logo.svg/200px-Radio_Disney_logo.svg.png",
+    "desc": "Non-stop hip-hop and R&B hits.",
+    "longDesc": "The Beat is your destination for the latest in hip-hop and R&B, playing a continuous stream of the hottest tracks from both established and emerging artists in the genre."
+  },
      {
      "name": "Absolute Country Hits",
      "streamURL": "http://strm112.1.fm/acountry_mobile_mp3",
