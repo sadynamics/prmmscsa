@@ -11,7 +11,7 @@
   },
   {
     "name": "KEAN 105.1 FM (Abilene, Texas, USA)",
-    "streamURL": "https://feed.tunein.com/profiles/s232547/nowPlaying?token=eyJwIjpmYWxzZSwidCI6IjIwMjUtMDQtMTJUMTI6Mzg6MzAuMjE1MzAxOFoifQ&itemToken=BgQEAAMAAwACAAIACwsAAgQFE1UAAAATVQAAAA&formats=mp3,aac,ogg,flash,html,hls&serial=4f2b1562-39ec-48ac-94e2-8837ccbd0267&partnerId=RadioTime&version=6.92&itemUrlScheme=secure&reqAttempt=1",
+    "streamURL": "https://streaming.live365.com/a05454",
     "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/KEAN_logo.png/200px-KEAN_logo.png",
     "desc": "Texas' Best Country Music Radio Station.",
     "longDesc": "KEAN 105.1 FM is a country music station based in Abilene, Texas. It features a mix of contemporary and classic country hits, catering to fans of the genre with engaging hosts and community-focused content."
