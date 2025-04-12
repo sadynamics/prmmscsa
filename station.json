@@ -32,7 +32,7 @@
   },
   {
     "name": "BBC Radio 1 Dance",
-    "streamURL": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_one_dance",
+    "streamURL": "https://ais-sa3.cdnstream1.com/1366_128.mp3",
     "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/BBC_Radio_1_Dance_Logo.svg/200px-BBC_Radio_1_Dance_Logo.svg.png",
     "desc": "BBC's dedicated dance music stream, featuring the best in electronic music.",
     "longDesc": "BBC Radio 1 Dance is a 24/7 stream from the BBC, focusing on dance music genres. It features exclusive mixes, live sets, and shows from top DJs, providing a platform for both established and emerging electronic music artists."
@@ -53,22 +53,22 @@
   },
   {
     "name": "Kiss FM Australia",
-    "streamURL": "http://stream.kissfm.com.au:8000/kissfm.mp3",
+    "streamURL": "https://ice24.securenetsystems.net/WPIA",
     "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Kiss_Logo_2019.svg/200px-Kiss_Logo_2019.svg.png",
     "desc": "Australia's leading dance music station.",
     "longDesc": "Kiss FM Australia is renowned for its dance music programming, featuring a mix of house, techno, and electronic beats. It's a favorite among club-goers and electronic music enthusiasts down under."
   },
   {
     "name": "Energy FM",
-    "streamURL": "http://s2.viastreaming.net:7015/;",
+    "streamURL": "https://dbc.streamguys1.com/wmyb-fm.aac",
     "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/NRJ_Logo.svg/200px-NRJ_Logo.svg.png",
     "desc": "The best mix of today's hits and throwbacks.",
     "longDesc": "Energy FM offers a vibrant mix of current chart-toppers and classic hits, catering to a broad audience that enjoys both new releases and nostalgic tracks."
   },
   {
     "name": "The Beat",
-    "streamURL": "http://streaming.radio.co/s95f38c4fa/listen",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Radio_Disney_logo.svg/200px-Radio_Disney_logo.svg.png",
+    "streamURL": "https://ice66.securenetsystems.net/KRVV",
+    "imageURL": "https://us-radio.com/wp-content/uploads/100.1-The-Beat.jpg",
     "desc": "Non-stop hip-hop and R&B hits.",
     "longDesc": "The Beat is your destination for the latest in hip-hop and R&B, playing a continuous stream of the hottest tracks from both established and emerging artists in the genre."
   },
