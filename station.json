@@ -1,6 +1,42 @@
 {
     "station":
     [
+        
+  {
+    "name": "WLTW 106.7 Lite FM (New York, USA)",
+    "streamURL": "https://stream.revma.ihrhls.com/zc1425/hls.m3u8",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/WLTW_logo.png/200px-WLTW_logo.png",
+    "desc": "New York's Best Variety Radio Station, playing hits from the '80s to today.",
+    "longDesc": "WLTW 106.7 Lite FM is a top-rated station in New York City, offering a mix of adult contemporary music, including pop, rock, and R&B hits. It's known for its family-friendly programming and seasonal music specials."
+  },
+  {
+    "name": "KEAN 105.1 FM (Abilene, Texas, USA)",
+    "streamURL": "https://stream.revma.ihrhls.com/zc1426/hls.m3u8",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/KEAN_logo.png/200px-KEAN_logo.png",
+    "desc": "Texas' Best Country Music Radio Station.",
+    "longDesc": "KEAN 105.1 FM is a country music station based in Abilene, Texas. It features a mix of contemporary and classic country hits, catering to fans of the genre with engaging hosts and community-focused content."
+  },
+  {
+    "name": "My House Radio",
+    "streamURL": "https://myhouseradio.fm/stream",
+    "imageURL": "https://myhouseradio.fm/wp-content/uploads/2020/01/cropped-MyHouseRadio-Logo.png",
+    "desc": "Commercial-Free Dance Music, focusing on house, deep house, and soulful classics.",
+    "longDesc": "My House Radio is dedicated to promoting artists and DJs who produce dance music in genres like house, deep house, soulful, and classics. With over 40 DJs from around the world, it offers 24/7 streaming without commercial interruptions."
+  },
+  {
+    "name": "Apple Music Hits",
+    "streamURL": "https://music.apple.com/radio/apple-music-hits/ra.1469280364",
+    "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/1a/2b/3c/1a2b3c4d-5e6f-7g8h-9i0j-k1l2m3n4o5p6/logo.png/200x200bb.png",
+    "desc": "Celebrating everyone's favorite songs from the '80s, '90s, and 2000s.",
+    "longDesc": "Apple Music Hits offers a full catalog of the biggest songs from the '80s, '90s, and 2000s. It's part of Apple Music's radio offerings, featuring exclusive shows and curated playlists by renowned DJs and artists."
+  },
+  {
+    "name": "BBC Radio 1 Dance",
+    "streamURL": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_one_dance",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/BBC_Radio_1_Dance_Logo.svg/200px-BBC_Radio_1_Dance_Logo.svg.png",
+    "desc": "BBC's dedicated dance music stream, featuring the best in electronic music.",
+    "longDesc": "BBC Radio 1 Dance is a 24/7 stream from the BBC, focusing on dance music genres. It features exclusive mixes, live sets, and shows from top DJs, providing a platform for both established and emerging electronic music artists."
+  },
         {
     "name": "Radio Disney",
     "streamURL": "http://icecast.abacast.net/disney-disneychannelmp3-64",
