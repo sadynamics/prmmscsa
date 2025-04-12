@@ -343,7 +343,112 @@
      "imageURL": "https://cdn-profiles.tunein.com/s2976/images/logod.jpg?t=637994833500000000",
      "desc": "Only The Hits You Love",
      "longDesc": "The top-rated English Top 40 hits station in Mexico."
-     }
+     },
+        {
+    "name": "Capital FM (UK)",
+    "streamURL": "https://media-ice.musicradio.com/CapitalMP3",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Capital_2022.svg/200px-Capital_2022.svg.png",
+    "desc": "The UK's No.1 Hit Music Station, playing the biggest hits from the world's hottest artists.",
+    "longDesc": "Capital FM is a network of twelve independent contemporary hit radio stations in the United Kingdom, broadcasting a mix of local and networked programming. It targets a core audience in the 15–34 age group and is widely available on various platforms, including Global Player, Freeview, Sky, Freesat, Virgin Media, and Digital One DAB."
+  },
+  {
+    "name": "WIHT HOT 99.5 (Washington, D.C.)",
+    "streamURL": "https://stream.revma.ihrhls.com/zc2509/hls.m3u8",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/HOT995-new-logo-with-slogan.png/200px-HOT995-new-logo-with-slogan.png",
+    "desc": "Washington D.C.'s #1 Hit Music Station, featuring the latest Top 40 hits.",
+    "longDesc": "WIHT (99.5 FM), branded as HOT 99.5, is a contemporary hit radio station serving the Washington, D.C. metropolitan area. Owned by iHeartMedia, it offers a mix of current popular music, entertainment, and on-air personalities."
+  },
+  {
+    "name": "Hits Radio UK",
+    "streamURL": "https://media-ice.musicradio.com/HitsRadioUKMP3",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Hits_Radio_logo_2018.svg/200px-Hits_Radio_logo_2018.svg.png",
+    "desc": "The UK's biggest hits and the best throwbacks, all in one place.",
+    "longDesc": "Hits Radio UK is a national digital radio station in the United Kingdom, playing a mix of contemporary hits and classic tracks. It caters to a broad audience with a focus on popular music and entertainment."
+  },
+  {
+    "name": "iHeartRadio Top 40",
+    "streamURL": "https://stream.revma.ihrhls.com/zc2509/hls.m3u8",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/IHeartRadio_logo.svg/200px-IHeartRadio_logo.svg.png",
+    "desc": "America's Top 40 hits, streaming live from iHeartRadio.",
+    "longDesc": "iHeartRadio's Top 40 station features the most popular songs in the United States, spanning pop, hip-hop, and R&B genres. It offers listeners a curated selection of current chart-toppers."
+  },
+  {
+    "name": "Apple Music 1",
+    "streamURL": "https://music.apple.com/radio",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Apple_Music_1_logo.svg/200px-Apple_Music_1_logo.svg.png",
+    "desc": "Global 24/7 radio station featuring the best in music, culture, and interviews.",
+    "longDesc": "Apple Music 1, formerly known as Beats 1, is Apple's flagship global radio station. Broadcasting live from studios in Los Angeles, New York, and London, it features a mix of pop, rap, and indie music, along with exclusive interviews and shows hosted by renowned DJs."
+  },
+    {
+    "name": "BBC World Service",
+    "streamURL": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/BBC_World_Service_2022_%28Boxed%29.svg/200px-BBC_World_Service_2022_%28Boxed%29.svg.png",
+    "desc": "The world's largest international broadcaster, offering news, analysis, and cultural programming in English and other languages.",
+    "longDesc": "The BBC World Service is a British public service broadcaster owned and operated by the BBC. It broadcasts radio news, speech, and discussions in more than 40 languages to many parts of the world on analogue and digital shortwave platforms, internet streaming, podcasting, satellite, DAB, FM, LW, and MW relays. In 2024, the World Service reached an average of 450 million people a week via TV, radio, and online."
+  },
+  {
+    "name": "NPR (National Public Radio)",
+    "streamURL": "https://npr-ice.streamguys1.com/live.mp3",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/NPR_News_logo.svg/200px-NPR_News_logo.svg.png",
+    "desc": "A nonprofit media organization in the U.S. that produces and distributes news and cultural programming.",
+    "longDesc": "NPR is an American privately and publicly funded nonprofit media organization based in Washington, D.C. It serves as a national syndicator to a network of over 1,000 public radio stations in the United States. NPR produces and distributes news and cultural programming, including shows like 'Morning Edition' and 'All Things Considered'."
+  },
+  {
+    "name": "WNYC-FM",
+    "streamURL": "http://fm939.wnyc.org/wnycfm",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/WNYC_logo.svg/200px-WNYC_logo.svg.png",
+    "desc": "New York City's flagship public radio station, offering news, talk, and cultural programming.",
+    "longDesc": "WNYC-FM is a public radio station licensed to New York City. It is owned by New York Public Radio, a nonprofit organization. WNYC-FM broadcasts a mix of news, talk, and cultural programming, including shows like 'The Brian Lehrer Show' and 'Radiolab'."
+  },
+  {
+    "name": "Jazz24",
+    "streamURL": "http://live.wostreaming.net/direct/ppm-jazz24mp3-128",
+    "imageURL": "https://www.jazz24.org/wp-content/uploads/2019/03/jazz24-logo.png",
+    "desc": "A 24/7 jazz station featuring the greatest jazz artists of all time.",
+    "longDesc": "Jazz24 is a non-commercial, listener-supported jazz station based in Tacoma, Washington. It offers a continuous stream of jazz music, featuring artists like Miles Davis, Billie Holiday, and John Coltrane. Jazz24 is available online and through various streaming platforms."
+  },
+  {
+    "name": "KEXP 90.3 FM",
+    "streamURL": "http://live-aacplus-64.kexp.org/kexp64.aac",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/KEXP_Logo.svg/200px-KEXP_Logo.svg.png",
+    "desc": "Seattle-based radio station known for its eclectic mix of alternative and indie music.",
+    "longDesc": "KEXP is a public radio station based in Seattle, Washington, renowned for its diverse and eclectic music programming. It features live in-studio performances, interviews, and a wide range of music genres, including alternative, indie, hip-hop, and electronic."
+  },
+  {
+    "name": "Classic FM",
+    "streamURL": "http://media-ice.musicradio.com/ClassicFMMP3",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Classic_FM_logo_2019.svg/200px-Classic_FM_logo_2019.svg.png",
+    "desc": "UK-based station playing classical music from the past and present.",
+    "longDesc": "Classic FM is a British independent national radio station that broadcasts classical music. It aims to make classical music accessible to a wider audience by playing popular classical pieces and providing context and information about the music and composers."
+  },
+  {
+    "name": "Radio Paradise",
+    "streamURL": "http://stream.radioparadise.com/mp3-192",
+    "imageURL": "https://www.radioparadise.com/img/logo.png",
+    "desc": "A listener-supported internet radio station blending eclectic music genres.",
+    "longDesc": "Radio Paradise is an internet radio station that offers a curated mix of modern and classic rock, world music, electronica, and more. It's known for its high-quality audio streams and thoughtful song selections, providing a unique listening experience."
+  },
+  {
+    "name": "1.FM - Absolute Country Hits",
+    "streamURL": "http://strm112.1.fm/acountry_mobile_mp3",
+    "imageURL": "https://www.1.fm/images/stations/absolutecountryhits.jpg",
+    "desc": "Streaming the best of country music from classic to contemporary hits.",
+    "longDesc": "1.FM's Absolute Country Hits station plays a mix of country music, featuring both classic tracks and the latest hits. It's part of the 1.FM network, which offers a variety of genre-specific internet radio stations."
+  },
+  {
+    "name": "Hot 108 JAMZ",
+    "streamURL": "http://listen.powerhitz.com/hot108",
+    "imageURL": "https://www.powerhitz.com/hot108jamz/hot108jamzlogo.png",
+    "desc": "Top 40 and hip-hop hits streaming 24/7.",
+    "longDesc": "Hot 108 JAMZ is an internet radio station that plays the latest in hip-hop and R&B music. It's part of the Powerhitz network and is known for its continuous stream of popular urban music hits."
+  },
+  {
+    "name": "SomaFM: Indie Pop Rocks!",
+    "streamURL": "http://ice1.somafm.com/indiepop-128-mp3",
+    "imageURL": "https://somafm.com/img3/indiepop-400.jpg",
+    "desc": "Independent pop music from emerging artists.",
+    "longDesc": "SomaFM's Indie Pop Rocks! channel features the best in indie pop music, showcasing emerging artists and bands. It's a commercial-free, listener-supported station that offers a curated selection of indie tracks."
+  }
      
     ]
 }
