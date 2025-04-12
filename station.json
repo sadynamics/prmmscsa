@@ -448,6 +448,41 @@
     "imageURL": "https://somafm.com/img3/indiepop-400.jpg",
     "desc": "Independent pop music from emerging artists.",
     "longDesc": "SomaFM's Indie Pop Rocks! channel features the best in indie pop music, showcasing emerging artists and bands. It's a commercial-free, listener-supported station that offers a curated selection of indie tracks."
+  },
+{
+    "name": "Z100 New York",
+    "streamURL": "https://stream.revma.ihrhls.com/zc1423/hls.m3u8",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/WHTZ_logo.png/200px-WHTZ_logo.png",
+    "desc": "New York's #1 Hit Music Station, featuring the latest Top 40 hits.",
+    "longDesc": "Z100 (WHTZ) is a commercial Top 40/CHR radio station licensed to Newark, New Jersey, and serving the New York metropolitan area. Owned by iHeartMedia, Z100 is known for its contemporary hit radio format, playing a mix of pop, rock, and dance music."
+  },
+  {
+    "name": "KIIS FM Los Angeles",
+    "streamURL": "https://stream.revma.ihrhls.com/zc1425/hls.m3u8",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/KIIS-FM_logo.png/200px-KIIS-FM_logo.png",
+    "desc": "Los Angeles' #1 Hit Music Station, playing the hottest tracks.",
+    "longDesc": "KIIS-FM is a commercial radio station licensed to Los Angeles, California. It airs a Top 40/CHR format and is owned by iHeartMedia. KIIS-FM is known for its popular morning show and for hosting the annual Jingle Ball concert."
+  },
+  {
+    "name": "NRJ Hits",
+    "streamURL": "http://cdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/NRJ_Logo.svg/200px-NRJ_Logo.svg.png",
+    "desc": "France's top hit music station, broadcasting internationally.",
+    "longDesc": "NRJ (Nouvelle Radio Jeune) is a French multimedia group known for its popular hit music radio station. NRJ Hits plays a mix of contemporary pop, dance, and R&B music, and is accessible in various countries through online streaming."
+  },
+  {
+    "name": "Nova FM Australia",
+    "streamURL": "https://stream.novaentertainment.com.au/nova969",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Nova_969_logo.svg/200px-Nova_969_logo.svg.png",
+    "desc": "Australia's premier hit music station, featuring the latest chart-toppers.",
+    "longDesc": "Nova FM is a network of radio stations in Australia, broadcasting a contemporary hit radio format. Nova 96.9 in Sydney is one of its flagship stations, known for playing current hits and engaging morning shows."
+  },
+  {
+    "name": "Kiss FM UK",
+    "streamURL": "https://media-ice.musicradio.com/KissFMMP3",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Kiss_Logo_2019.svg/200px-Kiss_Logo_2019.svg.png",
+    "desc": "UK's leading station for hip-hop, R&B, and dance hits.",
+    "longDesc": "Kiss FM UK is a national digital radio station, playing a mix of contemporary hits, including hip-hop, R&B, and dance music. It's part of the Bauer Radio network and is known for its energetic DJs and popular music programs."
   }
      
     ]
