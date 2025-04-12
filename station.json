@@ -95,14 +95,14 @@
      },
      {
      "name": "Joy FM",
-     "streamURL": "https://21303.live.streamtheworld.com/METRO_FM_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY3NTM4MTMxNCwiaXNzIjoidGlzcnYifQ.IUOMq6ko0fweZ4mNN1El4Cwdx2wc7GIeqT3Nu-F7p8o",
+     "streamURL": "https://rtn.cdnstream1.com/2579_96.aac",
      "imageURL": "https://static.mytuner.mobi/media/tvos_radios/zhmk3Nsvwx.png",
      "desc": "Tüm zamanların en iyilerinin buluşma noktası Joy FM.",
      "longDesc": ""
      },
      {
      "name": "Urban Hitz Radio",
-     "streamURL": "https://strw1.openstream.co/1633?aw_0_1st.collectionid%3D4906%26stationId%3D4906%26publisherId%3D1657%26k%3D1675381713%26aw_0_azn.pcountry%3D%5B%22US%22%5D%26aw_0_azn.planguage%3D%5B%22en%22%5D%26aw_0_azn.pgenre%3D%5B%22Urban+-+Hip-Hop%22%5D",
+     "streamURL": "https://streaming.radio.co/s07f9b8a04/listen",
      "imageURL": "http://cdn-profiles.tunein.com/s51189/images/logod.png?t=637942149570000000",
      "desc": "Urban Hitz Radio is the People's Choice! We are the Internet's #1 premier hotspot for Hip-Hop and R&B!",
      "longDesc": ""
@@ -130,7 +130,7 @@
      },
         {
      "name": "Simply Hits FM",
-     "streamURL": "https://feed.tunein.com/profiles/s151653/nowPlaying?token=eyJwIjpmYWxzZSwidCI6IjIwMjUtMDQtMTJUMTI6Mzg6MzAuMjE1MzAxOFoifQ&itemToken=BgQEAAIAAgACAAIACwsAAgQFE1UAAAATVQAAAA&formats=mp3,aac,ogg,flash,html,hls&serial=4f2b1562-39ec-48ac-94e2-8837ccbd0267&partnerId=RadioTime&version=6.92&itemUrlScheme=secure&reqAttempt=1",
+     "streamURL": "https://ice64.securenetsystems.net/LFTM",
      "imageURL": "https://www.liveradio.ie/files/images/518783/resized/180x172c/simply_hits_fm.jpg",
      "desc": "Playing The Most Hit Music Online!",
      "longDesc": "Shakin’ It Up Description: Simply Hits FM previously known as Wanted FM has been Shakin’ It Up since 2018. We are a Online Community Radio station providing high quality entertainment, internationally with the help of our professional, volunteer presenters that play music for everyone. Alongside our Music, we offer hourly news bulletins, interviews, on-air competitions and whole host of other great stuff! Simply Hits FM is the place to be for your entertainment fix. We are a Online Community Radio station providing high quality entertainment, internationally with the help of our professional, volunteer presenters that play music for everyone. Alongside our Music, we offer hourly news bulletins, interviews, on-air competitions and whole host of other great stuff! Lite FM is the place to be for your entertainment fix. We are a Online Community Radio station providing high quality entertainment, internationally with the help of our professional, volunteer presenters that play music for everyone. Alongside our Music, we offer hourly news bulletins, interviews, on-air competitions and whole host of other great stuff! SimplyHits.co.uk is the place to be for your entertainment fix. Simply Hits FM and its sister stations, broadcast live, internationally, 24 hours a day. Interested in joining our team? If yes, then visit our website today.",
@@ -179,7 +179,7 @@
      },
      {
      "name": "Classic Rock",
-     "streamURL": "https://mediaserv68.live-streams.nl:8070/stream",
+     "streamURL": "https://ice41.securenetsystems.net/KRHQ",
      "imageURL": "station-classicrock",
      "desc": "Classic Rock Hits",
      "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
