@@ -17,7 +17,7 @@
      } ,
      {
      "name": "Metro FM",
-     "streamURL": "https://25643.live.streamtheworld.com/METRO_FM_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY3NTM4MDYzMiwiaXNzIjoidGlzcnYifQ.NTikE2Adt9_YPsIyPh5dV14QPpoqk401qxAj2FpHNoc",
+     "streamURL": "https://feed.tunein.com/profiles/s8224/nowPlaying?token=eyJwIjpmYWxzZSwidCI6IjIwMjUtMDQtMTJUMTI6Mzg6MzAuMjE1MzAxOFoifQ&itemToken=BgQEAAEAAQABAAEACwsAAgQFE1UAAAATVQAAAA&formats=mp3,aac,ogg,flash,html,hls&serial=4f2b1562-39ec-48ac-94e2-8837ccbd0267&partnerId=RadioTime&version=6.92&itemUrlScheme=secure&reqAttempt=1",
      "imageURL": "https://www.radio.net/images/broadcasts/9e/b3/13682/c300.png",
      "desc": "Türkiye’nin en çok dinlenen yabancı müzik radyosu ve ilk ulusal yabancı müzik radyosu Metro FM.",
      "longDesc": ""
