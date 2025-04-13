@@ -436,56 +436,56 @@
   {
     "name": "NPR (National Public Radio)",
     "streamURL": "https://npr-ice.streamguys1.com/live.mp3",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/NPR_News_logo.svg/200px-NPR_News_logo.svg.png",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/National_Public_Radio_logo.svg/1200px-National_Public_Radio_logo.svg.png",
     "desc": "A nonprofit media organization in the U.S. that produces and distributes news and cultural programming.",
     "longDesc": "NPR is an American privately and publicly funded nonprofit media organization based in Washington, D.C. It serves as a national syndicator to a network of over 1,000 public radio stations in the United States. NPR produces and distributes news and cultural programming, including shows like 'Morning Edition' and 'All Things Considered'."
   },
   {
     "name": "WNYC-FM",
     "streamURL": "http://fm939.wnyc.org/wnycfm",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/WNYC_logo.svg/200px-WNYC_logo.svg.png",
+    "imageURL": "https://cdn-profiles.tunein.com/s21606/images/logog.png?t=1",
     "desc": "New York City's flagship public radio station, offering news, talk, and cultural programming.",
     "longDesc": "WNYC-FM is a public radio station licensed to New York City. It is owned by New York Public Radio, a nonprofit organization. WNYC-FM broadcasts a mix of news, talk, and cultural programming, including shows like 'The Brian Lehrer Show' and 'Radiolab'."
   },
   {
     "name": "Jazz24",
     "streamURL": "http://live.wostreaming.net/direct/ppm-jazz24mp3-128",
-    "imageURL": "https://www.jazz24.org/wp-content/uploads/2019/03/jazz24-logo.png",
+    "imageURL": "https://npr.brightspotcdn.com/dims4/default/a44e5e8/2147483647/strip/true/crop/900x506+0+198/resize/1200x675!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F98%2Ff7%2F48229ba341b0b1c8933834130d10%2Fjazz24.jpg",
     "desc": "A 24/7 jazz station featuring the greatest jazz artists of all time.",
     "longDesc": "Jazz24 is a non-commercial, listener-supported jazz station based in Tacoma, Washington. It offers a continuous stream of jazz music, featuring artists like Miles Davis, Billie Holiday, and John Coltrane. Jazz24 is available online and through various streaming platforms."
   },
   {
     "name": "KEXP 90.3 FM",
     "streamURL": "http://live-aacplus-64.kexp.org/kexp64.aac",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/KEXP_Logo.svg/200px-KEXP_Logo.svg.png",
+    "imageURL": "https://lastfm.freetls.fastly.net/i/u/300x300/47727fd612804eb881f74432a3657261.jpg",
     "desc": "Seattle-based radio station known for its eclectic mix of alternative and indie music.",
     "longDesc": "KEXP is a public radio station based in Seattle, Washington, renowned for its diverse and eclectic music programming. It features live in-studio performances, interviews, and a wide range of music genres, including alternative, indie, hip-hop, and electronic."
   },
   {
     "name": "Classic FM",
     "streamURL": "http://media-ice.musicradio.com/ClassicFMMP3",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Classic_FM_logo_2019.svg/200px-Classic_FM_logo_2019.svg.png",
+    "imageURL": "https://assets.classicfm.com/2018/10/classic-fm-logo-large-square-1520936467-list-handheld-0.png",
     "desc": "UK-based station playing classical music from the past and present.",
     "longDesc": "Classic FM is a British independent national radio station that broadcasts classical music. It aims to make classical music accessible to a wider audience by playing popular classical pieces and providing context and information about the music and composers."
   },
   {
     "name": "Radio Paradise",
     "streamURL": "http://stream.radioparadise.com/mp3-192",
-    "imageURL": "https://www.radioparadise.com/img/logo.png",
+    "imageURL": "https://k4p2f2g6.delivery.rocketcdn.me/wp-content/uploads/2021/04/Radio-Paradise.webp",
     "desc": "A listener-supported internet radio station blending eclectic music genres.",
     "longDesc": "Radio Paradise is an internet radio station that offers a curated mix of modern and classic rock, world music, electronica, and more. It's known for its high-quality audio streams and thoughtful song selections, providing a unique listening experience."
   },
   {
     "name": "1.FM - Absolute Country Hits",
     "streamURL": "http://strm112.1.fm/acountry_mobile_mp3",
-    "imageURL": "https://www.1.fm/images/stations/absolutecountryhits.jpg",
+    "imageURL": "https://ca.radio.net/300/1fmcountry.png?version=b5d613d21e04e17926aa29cf734eaf99",
     "desc": "Streaming the best of country music from classic to contemporary hits.",
     "longDesc": "1.FM's Absolute Country Hits station plays a mix of country music, featuring both classic tracks and the latest hits. It's part of the 1.FM network, which offers a variety of genre-specific internet radio stations."
   },
   {
     "name": "Hot 108 JAMZ",
     "streamURL": "http://listen.powerhitz.com/hot108",
-    "imageURL": "https://www.powerhitz.com/hot108jamz/hot108jamzlogo.png",
+    "imageURL": "https://i1.sndcdn.com/artworks-000431152680-ftt5d5-t500x500.jpg",
     "desc": "Top 40 and hip-hop hits streaming 24/7.",
     "longDesc": "Hot 108 JAMZ is an internet radio station that plays the latest in hip-hop and R&B music. It's part of the Powerhitz network and is known for its continuous stream of popular urban music hits."
   },
@@ -496,13 +496,7 @@
     "desc": "Independent pop music from emerging artists.",
     "longDesc": "SomaFM's Indie Pop Rocks! channel features the best in indie pop music, showcasing emerging artists and bands. It's a commercial-free, listener-supported station that offers a curated selection of indie tracks."
   },
-{
-    "name": "Z100 New York",
-    "streamURL": "https://stream.revma.ihrhls.com/zc1423/hls.m3u8",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/WHTZ_logo.png/200px-WHTZ_logo.png",
-    "desc": "New York's #1 Hit Music Station, featuring the latest Top 40 hits.",
-    "longDesc": "Z100 (WHTZ) is a commercial Top 40/CHR radio station licensed to Newark, New Jersey, and serving the New York metropolitan area. Owned by iHeartMedia, Z100 is known for its contemporary hit radio format, playing a mix of pop, rock, and dance music."
-  },
+
   {
     "name": "KIIS FM Los Angeles",
     "streamURL": "https://stream.revma.ihrhls.com/zc1425/hls.m3u8",
