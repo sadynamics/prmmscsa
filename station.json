@@ -95,7 +95,7 @@
      },
      {
      "name": "Joy FM",
-     "streamURL": "https://rtn.cdnstream1.com/2579_96.aac",
+     "streamURL": "https://rtn.cdnstream1.com/2575_96.aac",
      "imageURL": "https://static.mytuner.mobi/media/tvos_radios/zhmk3Nsvwx.png",
      "desc": "Tüm zamanların en iyilerinin buluşma noktası Joy FM.",
      "longDesc": ""
@@ -129,16 +129,16 @@
      "longDesc": ""
      },
         {
-     "name": "Simply Hits FM",
-     "streamURL": "https://ice64.securenetsystems.net/LFTM",
-     "imageURL": "https://www.liveradio.ie/files/images/518783/resized/180x172c/simply_hits_fm.jpg",
+     "name": "Greatest Hits",
+     "streamURL": "https://14223.live.streamtheworld.com/WISMFMAAC.aac",
+     "imageURL": "https://us-radio.com/wp-content/uploads/WFLC-HITS-97.3.png",
      "desc": "Playing The Most Hit Music Online!",
      "longDesc": "Shakin’ It Up Description: Simply Hits FM previously known as Wanted FM has been Shakin’ It Up since 2018. We are a Online Community Radio station providing high quality entertainment, internationally with the help of our professional, volunteer presenters that play music for everyone. Alongside our Music, we offer hourly news bulletins, interviews, on-air competitions and whole host of other great stuff! Simply Hits FM is the place to be for your entertainment fix. We are a Online Community Radio station providing high quality entertainment, internationally with the help of our professional, volunteer presenters that play music for everyone. Alongside our Music, we offer hourly news bulletins, interviews, on-air competitions and whole host of other great stuff! Lite FM is the place to be for your entertainment fix. We are a Online Community Radio station providing high quality entertainment, internationally with the help of our professional, volunteer presenters that play music for everyone. Alongside our Music, we offer hourly news bulletins, interviews, on-air competitions and whole host of other great stuff! SimplyHits.co.uk is the place to be for your entertainment fix. Simply Hits FM and its sister stations, broadcast live, internationally, 24 hours a day. Interested in joining our team? If yes, then visit our website today.",
      },
         {
      "name": "Nova FM",
      "streamURL": "https://npr-ice.streamguys1.com/live.mp3",
-     "imageURL": " https://static.mytuner.mobi/media/tvos_radios/lqzds6jnfsqr.png",
+     "imageURL": "https://us-radio.com/wp-content/uploads/Greatest-Hits-98.1.jpg",
      "desc": "We are Nova FM, we play Newport's Best Music Mix. Hear us in Newport, Shropshire and the surrounding areas on 97.5 FM. We're on your mobile too.!",
      "longDesc": "We are Nova FM, we play Newport's Best Music Mix. Hear us in Newport, Shropshire and the surrounding areas on 97.5 FM. We're on your mobile too.",
         },
@@ -192,22 +192,22 @@
      "longDesc": "Radio 1190 is the bomb."
      },
      {
-     "name": "KUSC",
-     "streamURL": "https://18443.live.streamtheworld.com/KUSCMP128_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY3NTU0MjM4MiwiaXNzIjoidGlzcnYifQ.bMhfUmAAj1qsFRDq4tk52u9CaWDbBCr8icauMEv8zog",
+     "name": "WCRI",
+     "streamURL": "https://wcri.streamguys1.com/live-mp3",
      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/e2/KUSC_Logo.jpg",
      "desc": "Relaxing Classical Music",
      "longDesc": "Listen to classical music all day on KUSC (91.5 MHz FM). Based in Los Angeles, KUSC offers a wide variety of classical music for listeners of all ages. To start streaming KUSC directly from 91.5 FM, select the play button below and stream instantly on any device."
      },
      {
      "name": "ESPN Chicago",
-     "streamURL": "https://prod-52-91-107-216.wostreaming.net/goodkarma-wmvpammp3-ibc1?session-id=87ee1f36e058220de6a94ea5f5a522c0&source=TuneIn&us_privacy=1YNY",
+     "streamURL": "https://ais-sa1.streamon.fm/7349_48k.aac",
      "imageURL": "https://goodkarmabrands.com/images/ESPN-Chicago-1000-am.jpg",
      "desc": "Only Sports",
      "longDesc": ""
      },
      {
      "name": "Big B Radio - KPOP",
-     "streamURL": "http://antares.dribbcast.com:4001/s",
+     "streamURL": "https://antares.dribbcast.com/proxy/apop?mp=/s2",
      "imageURL": "https://cdn-profiles.tunein.com/s135096/images/logog.png?t=158317",
      "desc": "Number 1 K-Pop Station",
      "longDesc": "You are now listening to the #1 K-Pop internet radio station. Big B Radio's KPOP Channel plays the hottest Korean Pop hits from South Korea. Tune in for continuous K-POP music. Visit our website for access to 192kbps HQ streams."
@@ -220,15 +220,15 @@
      "longDesc": "Regina's #1 Hit Music Station."
      },
      {
-     "name": "Radio Regenbogen",
-     "streamURL": " https://audiotainment-sw.streamabc.net/atsw-hiphop-mp3-128-5590407?sABC=63qrp91q%230%238o2n6q24osrr18s4n1o9q664oo3oq06o%23gharva&aw_0_1st.playerid=tunein&amsparams=playerid:tunein;skey:1675544861",
-     "imageURL": "",
-     "desc": "",
+     "name": "WKYW – Pop Radio 93.5",
+     "streamURL": "https://ice24.securenetsystems.net/W228CL",
+     "imageURL": "https://us-radio.com/wp-content/uploads/WKYW-Pop-Radio-93.5.jpg",
+     "desc": "The best music from the 90's to now!",
      "longDesc": ""
      },
      {
-     "name": "Bussin' Radio",
-     "streamURL": "https://19013.live.streamtheworld.com/SP_R4233592_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY3NTU0NDk3NiwiaXNzIjoidGlzcnYifQ.STU-4347Ld6NjJMKLpRemXN7L-Uo79vMdvSGf3SHJVA",
+     "name": "Pop Punk Radio",
+     "streamURL": "https://cast5.asurahosting.com/proxy/john1226/stream",
      "imageURL": "",
      "desc": "",
      "longDesc": "Bussin' Radio is an international streaming radio station powered by the PCMUSICENT Network."
@@ -255,17 +255,17 @@
      "longDesc": ""
      },
      {
-     "name": "Jake Radio",
-     "streamURL": "https://jakeradio.radioca.st/stream2",
-     "imageURL": "https://cdn-profiles.tunein.com/s203957/images/logod.png?t=637534223350000000",
-     "desc": "",
+     "name": ".100 Hip Hop and RNB FM",
+     "streamURL": "https://ice64.securenetsystems.net/LFTM",
+     "imageURL": "https://us-radio.com/wp-content/uploads/100-Hip-Hop-and-RNB-FM.jpg",
+     "desc": "Your #1 station for today's r&b hip hop and throwbacks",
      "longDesc": ""
      },
      {
-     "name": "Brass Radio",
-     "streamURL": "https://wav.carbonwav.com:1040/stream.mp3",
-     "imageURL": "https://cdn-profiles.tunein.com/s285270/images/logod.jpg?t=636860785660000000",
-     "desc": "",
+     "name": "WRNB-DB Radio",
+     "streamURL": "https://nap.casthost.net/proxy/wrnbdbfe/stream",
+     "imageURL": "https://us-radio.com/wp-content/uploads/WRNB-DB-Radio.jpg",
+     "desc": "Your place for r&b constantly",
      "longDesc": ""
      },
      {
@@ -297,10 +297,10 @@
      "longDesc": ""
      },
      {
-     "name": "95.7 Tha Beat",
-     "streamURL": " https://ais-sa2.cdnstream1.com/2190_64.mp3/",
-     "imageURL": "https://cdn-profiles.tunein.com/s232547/images/logod.png?t=638039653900000000",
-     "desc": "The Big Stick!!!",
+     "name": "Hip Hop Muzic Hub",
+     "streamURL": "https://c11.radioboss.fm:18187/stream",
+     "imageURL": "https://us-radio.com/wp-content/uploads/Hip-Hop-Muzic-Hub.jpg",
+     "desc": "Wichita's #1 digital hip hop & rnb radio station!!",
      "longDesc": ""
      },
      {
@@ -394,13 +394,7 @@
      "desc": "",
      "longDesc": "Cheesy FM is home to all things cheesy. Pop, Dance, Boy-Bands, One-Hit Wonders, Camp Classics, Party Anthems, the 70s, 80s, 90s & the big songs of today! Pure cheese, and proud of it."
      },
-     {
-     "name": "Nova 100",
-     "streamURL": "https://21363.live.streamtheworld.com/NOVA_100_AAC48.aac?dist=tunein&tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.eyJpc3MiOiJ0aXNydiIsInN1YiI6IjI2NDc2NDcyMyIsImlhdCI6MTY3NjM1MTExMywidGQtcmVnIjpmYWxzZX0.X4AGX3DUgy47g-pZrIf1O3MaqK2dXtlykZZFmjf8xq4&DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY3NjM1MTExMywiaXNzIjoidGlzcnYifQ.xU_VO0TvP87IOVa0Pb8T1sFtQNt2QdVJQroK7UhJxfk",
-     "imageURL": "https://cdn-profiles.tunein.com/s17634/images/logod.png?t=636240672947870000",
-     "desc": "",
-     "longDesc": "Your Favourite Hit Music Station!"
-     },
+    
      {
      "name": "Dance FM",
      "streamURL": "https://stream-16.zeno.fm/cygwwun7a5zuv?zs=gPZHJWQJS56bPCVrqGyjpQ",
@@ -443,13 +437,7 @@
     "desc": "America's Top 40 hits, streaming live from iHeartRadio.",
     "longDesc": "iHeartRadio's Top 40 station features the most popular songs in the United States, spanning pop, hip-hop, and R&B genres. It offers listeners a curated selection of current chart-toppers."
   },
-  {
-    "name": "Apple Music 1",
-    "streamURL": "https://music.apple.com/radio",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Apple_Music_1_logo.svg/200px-Apple_Music_1_logo.svg.png",
-    "desc": "Global 24/7 radio station featuring the best in music, culture, and interviews.",
-    "longDesc": "Apple Music 1, formerly known as Beats 1, is Apple's flagship global radio station. Broadcasting live from studios in Los Angeles, New York, and London, it features a mix of pop, rap, and indie music, along with exclusive interviews and shows hosted by renowned DJs."
-  },
+  
     {
     "name": "BBC World Service",
     "streamURL": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk",
