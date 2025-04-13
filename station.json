@@ -112,7 +112,7 @@
         {
      "name": "KDRS Online",
      "streamURL": "https://cast1.asurahosting.com/proxy/kdrsonline/stream",
-     "imageURL": "",
+     "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8pL2hsN9zoeBUYYFvgS0hALDtABDN9uAE5g&s",
      "desc": "Playing The Most Hit Music Online!",
      "longDesc": ""
      },
@@ -400,28 +400,28 @@
         {
     "name": "Capital FM (UK)",
     "streamURL": "https://media-ice.musicradio.com/CapitalMP3",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Capital_2022.svg/200px-Capital_2022.svg.png",
+    "imageURL": "https://m.media-amazon.com/images/I/41M6314yn5L.png",
     "desc": "The UK's No.1 Hit Music Station, playing the biggest hits from the world's hottest artists.",
     "longDesc": "Capital FM is a network of twelve independent contemporary hit radio stations in the United Kingdom, broadcasting a mix of local and networked programming. It targets a core audience in the 15–34 age group and is widely available on various platforms, including Global Player, Freeview, Sky, Freesat, Virgin Media, and Digital One DAB."
   },
   {
     "name": "WIHT HOT 99.5 (Washington, D.C.)",
     "streamURL": "https://stream.revma.ihrhls.com/zc2509/hls.m3u8",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/HOT995-new-logo-with-slogan.png/200px-HOT995-new-logo-with-slogan.png",
+    "imageURL": "https://i.scdn.co/image/ab6775700000ee854f777ac0637baf549a331c60",
     "desc": "Washington D.C.'s #1 Hit Music Station, featuring the latest Top 40 hits.",
     "longDesc": "WIHT (99.5 FM), branded as HOT 99.5, is a contemporary hit radio station serving the Washington, D.C. metropolitan area. Owned by iHeartMedia, it offers a mix of current popular music, entertainment, and on-air personalities."
   },
   {
     "name": "Hits Radio UK",
     "streamURL": "https://media-ice.musicradio.com/HitsRadioUKMP3",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Hits_Radio_logo_2018.svg/200px-Hits_Radio_logo_2018.svg.png",
+    "imageURL": "https://www.bauermedia.co.uk/wordpress/wp-content/uploads/2025/03/HITS-RADIO-LOGO-640x480.jpg",
     "desc": "The UK's biggest hits and the best throwbacks, all in one place.",
     "longDesc": "Hits Radio UK is a national digital radio station in the United Kingdom, playing a mix of contemporary hits and classic tracks. It caters to a broad audience with a focus on popular music and entertainment."
   },
   {
     "name": "iHeartRadio Top 40",
     "streamURL": "https://stream.revma.ihrhls.com/zc2509/hls.m3u8",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/IHeartRadio_logo.svg/200px-IHeartRadio_logo.svg.png",
+    "imageURL": "https://i.iheart.com/v3/re/assets.playlists/666b5d1fffd5586fedf6ce3f?ops=fit(480%2C480)%2Cfit(480%2C480)",
     "desc": "America's Top 40 hits, streaming live from iHeartRadio.",
     "longDesc": "iHeartRadio's Top 40 station features the most popular songs in the United States, spanning pop, hip-hop, and R&B genres. It offers listeners a curated selection of current chart-toppers."
   },
