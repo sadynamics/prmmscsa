@@ -5,70 +5,58 @@
   {
     "name": "WLTW 106.7 Lite FM (New York, USA)",
     "streamURL": "https://stream.revma.ihrhls.com/zc1425/hls.m3u8",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/WLTW_logo.png/200px-WLTW_logo.png",
+    "imageURL": "https://dvw7f7sqjk3ag.cloudfront.net/images/radio/11.jpg",
     "desc": "New York's Best Variety Radio Station, playing hits from the '80s to today.",
     "longDesc": "WLTW 106.7 Lite FM is a top-rated station in New York City, offering a mix of adult contemporary music, including pop, rock, and R&B hits. It's known for its family-friendly programming and seasonal music specials."
   },
   {
     "name": "KEAN 105.1 FM (Abilene, Texas, USA)",
     "streamURL": "https://streaming.live365.com/a05454",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/KEAN_logo.png/200px-KEAN_logo.png",
+    "imageURL": "https://s3.amazonaws.com/TSM-Mobile/web/KEANFM_stationlogoMedium.jpg",
     "desc": "Texas' Best Country Music Radio Station.",
     "longDesc": "KEAN 105.1 FM is a country music station based in Abilene, Texas. It features a mix of contemporary and classic country hits, catering to fans of the genre with engaging hosts and community-focused content."
   },
   {
     "name": "My House Radio",
     "streamURL": "https://myhouseradiofm.out.airtime.pro/myhouseradiofm_a",
-    "imageURL": "https://myhouseradio.fm/wp-content/uploads/2020/01/cropped-MyHouseRadio-Logo.png",
+    "imageURL": "https://www.myhouseradio.fm/wp-content/uploads/2021/05/053021_MHR_OG_I.png",
     "desc": "Commercial-Free Dance Music, focusing on house, deep house, and soulful classics.",
     "longDesc": "My House Radio is dedicated to promoting artists and DJs who produce dance music in genres like house, deep house, soulful, and classics. With over 40 DJs from around the world, it offers 24/7 streaming without commercial interruptions."
   },
-  {
-    "name": "Apple Music Hits",
-    "streamURL": "https://music.apple.com/radio/apple-music-hits/ra.1469280364",
-    "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/1a/2b/3c/1a2b3c4d-5e6f-7g8h-9i0j-k1l2m3n4o5p6/logo.png/200x200bb.png",
-    "desc": "Celebrating everyone's favorite songs from the '80s, '90s, and 2000s.",
-    "longDesc": "Apple Music Hits offers a full catalog of the biggest songs from the '80s, '90s, and 2000s. It's part of Apple Music's radio offerings, featuring exclusive shows and curated playlists by renowned DJs and artists."
-  },
+  
   {
     "name": "BBC Radio 1 Dance",
     "streamURL": "https://ais-sa3.cdnstream1.com/1366_128.mp3",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/BBC_Radio_1_Dance_Logo.svg/200px-BBC_Radio_1_Dance_Logo.svg.png",
+    "imageURL": "https://sounds.files.bbci.co.uk/3.8.0/networks/bbc_radio_one_dance/blocks-colour_600x600.png",
     "desc": "BBC's dedicated dance music stream, featuring the best in electronic music.",
     "longDesc": "BBC Radio 1 Dance is a 24/7 stream from the BBC, focusing on dance music genres. It features exclusive mixes, live sets, and shows from top DJs, providing a platform for both established and emerging electronic music artists."
   },
-        {
-    "name": "Radio Disney",
-    "streamURL": "http://icecast.abacast.net/disney-disneychannelmp3-64",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Radio_Disney_logo.svg/200px-Radio_Disney_logo.svg.png",
-    "desc": "Family-friendly pop hits and songs from Disney artists.",
-    "longDesc": "Radio Disney offers a mix of popular music tailored for a younger audience, featuring tracks from Disney movies, TV shows, and young pop artists. It's a go-to station for families and fans of upbeat, clean pop music."
-  },
+      
   {
     "name": "NRJ Hits",
     "streamURL": "http://cdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/NRJ_Logo.svg/200px-NRJ_Logo.svg.png",
+    "imageURL": "https://static.wikia.nocookie.net/logopedia/images/d/d9/NRJ_Hits.png",
     "desc": "France's top hit music station, broadcasting internationally.",
     "longDesc": "NRJ (Nouvelle Radio Jeune) is a French multimedia group known for its popular hit music radio station. NRJ Hits plays a mix of contemporary pop, dance, and R&B music, and is accessible in various countries through online streaming."
   },
   {
     "name": "Kiss FM Australia",
     "streamURL": "https://ice24.securenetsystems.net/WPIA",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Kiss_Logo_2019.svg/200px-Kiss_Logo_2019.svg.png",
+    "imageURL": "https://cdn-profiles.tunein.com/s68215/images/logog.png",
     "desc": "Australia's leading dance music station.",
     "longDesc": "Kiss FM Australia is renowned for its dance music programming, featuring a mix of house, techno, and electronic beats. It's a favorite among club-goers and electronic music enthusiasts down under."
   },
   {
     "name": "Energy FM",
     "streamURL": "https://dbc.streamguys1.com/wmyb-fm.aac",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/NRJ_Logo.svg/200px-NRJ_Logo.svg.png",
+    "imageURL": "https://eu2.contabostorage.com/b94f201d35554c5283f96247e0e97a2c:famcast-storage/ThaboM/energy-fm.webp",
     "desc": "The best mix of today's hits and throwbacks.",
     "longDesc": "Energy FM offers a vibrant mix of current chart-toppers and classic hits, catering to a broad audience that enjoys both new releases and nostalgic tracks."
   },
   {
     "name": "The Beat",
     "streamURL": "https://ice66.securenetsystems.net/KRVV",
-    "imageURL": "https://us-radio.com/wp-content/uploads/100.1-The-Beat.jpg",
+    "imageURL": "https://yt3.googleusercontent.com/ejJtnk2pa1u_cRs37Fl-aEa2iFky9d4_Tigwv7mcLE_35mw7N5VvHjyl_tQY90nOwAbCQO5JWA=s900-c-k-c0x00ffffff-no-rj",
     "desc": "Non-stop hip-hop and R&B hits.",
     "longDesc": "The Beat is your destination for the latest in hip-hop and R&B, playing a continuous stream of the hottest tracks from both established and emerging artists in the genre."
   },
