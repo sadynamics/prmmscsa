@@ -1,7 +1,34 @@
 {
     "station":
     [
-        
+        {
+    "name": "Classic FM",
+    "streamURL": "http://media-ice.musicradio.com/ClassicFMMP3",
+    "imageURL": "https://assets.classicfm.com/2018/10/classic-fm-logo-large-square-1520936467-list-handheld-0.png",
+    "desc": "UK-based station playing classical music from the past and present.",
+    "longDesc": "Classic FM is a British independent national radio station that broadcasts classical music. It aims to make classical music accessible to a wider audience by playing popular classical pieces and providing context and information about the music and composers."
+  },
+  {
+    "name": "Radio Paradise",
+    "streamURL": "http://stream.radioparadise.com/mp3-192",
+    "imageURL": "https://k4p2f2g6.delivery.rocketcdn.me/wp-content/uploads/2021/04/Radio-Paradise.webp",
+    "desc": "A listener-supported internet radio station blending eclectic music genres.",
+    "longDesc": "Radio Paradise is an internet radio station that offers a curated mix of modern and classic rock, world music, electronica, and more. It's known for its high-quality audio streams and thoughtful song selections, providing a unique listening experience."
+  },
+  {
+    "name": "1.FM - Absolute Country Hits",
+    "streamURL": "http://strm112.1.fm/acountry_mobile_mp3",
+    "imageURL": "https://ca.radio.net/300/1fmcountry.png?version=b5d613d21e04e17926aa29cf734eaf99",
+    "desc": "Streaming the best of country music from classic to contemporary hits.",
+    "longDesc": "1.FM's Absolute Country Hits station plays a mix of country music, featuring both classic tracks and the latest hits. It's part of the 1.FM network, which offers a variety of genre-specific internet radio stations."
+  },
+  {
+    "name": "Hot 108 JAMZ",
+    "streamURL": "http://listen.powerhitz.com/hot108",
+    "imageURL": "https://i1.sndcdn.com/artworks-000431152680-ftt5d5-t500x500.jpg",
+    "desc": "Top 40 and hip-hop hits streaming 24/7.",
+    "longDesc": "Hot 108 JAMZ is an internet radio station that plays the latest in hip-hop and R&B music. It's part of the Powerhitz network and is known for its continuous stream of popular urban music hits."
+  },
   {
     "name": "WLTW 106.7 Lite FM (New York, USA)",
     "streamURL": "https://stream.revma.ihrhls.com/zc1425/hls.m3u8",
@@ -378,7 +405,7 @@
      {
      "name": "Cheesy FM",
      "streamURL": "https://listen-cheesyfm.sharp-stream.com/cheesyfm.mp3",
-     "imageURL": "",
+     "imageURL": "https://cdn-profiles.tunein.com/s240329/images/logog.png",
      "desc": "",
      "longDesc": "Cheesy FM is home to all things cheesy. Pop, Dance, Boy-Bands, One-Hit Wonders, Camp Classics, Party Anthems, the 70s, 80s, 90s & the big songs of today! Pure cheese, and proud of it."
      },
@@ -461,34 +488,7 @@
     "desc": "Seattle-based radio station known for its eclectic mix of alternative and indie music.",
     "longDesc": "KEXP is a public radio station based in Seattle, Washington, renowned for its diverse and eclectic music programming. It features live in-studio performances, interviews, and a wide range of music genres, including alternative, indie, hip-hop, and electronic."
   },
-  {
-    "name": "Classic FM",
-    "streamURL": "http://media-ice.musicradio.com/ClassicFMMP3",
-    "imageURL": "https://assets.classicfm.com/2018/10/classic-fm-logo-large-square-1520936467-list-handheld-0.png",
-    "desc": "UK-based station playing classical music from the past and present.",
-    "longDesc": "Classic FM is a British independent national radio station that broadcasts classical music. It aims to make classical music accessible to a wider audience by playing popular classical pieces and providing context and information about the music and composers."
-  },
-  {
-    "name": "Radio Paradise",
-    "streamURL": "http://stream.radioparadise.com/mp3-192",
-    "imageURL": "https://k4p2f2g6.delivery.rocketcdn.me/wp-content/uploads/2021/04/Radio-Paradise.webp",
-    "desc": "A listener-supported internet radio station blending eclectic music genres.",
-    "longDesc": "Radio Paradise is an internet radio station that offers a curated mix of modern and classic rock, world music, electronica, and more. It's known for its high-quality audio streams and thoughtful song selections, providing a unique listening experience."
-  },
-  {
-    "name": "1.FM - Absolute Country Hits",
-    "streamURL": "http://strm112.1.fm/acountry_mobile_mp3",
-    "imageURL": "https://ca.radio.net/300/1fmcountry.png?version=b5d613d21e04e17926aa29cf734eaf99",
-    "desc": "Streaming the best of country music from classic to contemporary hits.",
-    "longDesc": "1.FM's Absolute Country Hits station plays a mix of country music, featuring both classic tracks and the latest hits. It's part of the 1.FM network, which offers a variety of genre-specific internet radio stations."
-  },
-  {
-    "name": "Hot 108 JAMZ",
-    "streamURL": "http://listen.powerhitz.com/hot108",
-    "imageURL": "https://i1.sndcdn.com/artworks-000431152680-ftt5d5-t500x500.jpg",
-    "desc": "Top 40 and hip-hop hits streaming 24/7.",
-    "longDesc": "Hot 108 JAMZ is an internet radio station that plays the latest in hip-hop and R&B music. It's part of the Powerhitz network and is known for its continuous stream of popular urban music hits."
-  },
+  
   {
     "name": "SomaFM: Indie Pop Rocks!",
     "streamURL": "http://ice1.somafm.com/indiepop-128-mp3",
@@ -500,14 +500,14 @@
   {
     "name": "KIIS FM Los Angeles",
     "streamURL": "https://stream.revma.ihrhls.com/zc1425/hls.m3u8",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/KIIS-FM_logo.png/200px-KIIS-FM_logo.png",
+    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5frE6VGaf6r03uaJX_Vbjy1aF-hvnMBMV5Q&s",
     "desc": "Los Angeles' #1 Hit Music Station, playing the hottest tracks.",
     "longDesc": "KIIS-FM is a commercial radio station licensed to Los Angeles, California. It airs a Top 40/CHR format and is owned by iHeartMedia. KIIS-FM is known for its popular morning show and for hosting the annual Jingle Ball concert."
   },
   {
     "name": "NRJ Hits",
     "streamURL": "http://cdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/NRJ_Logo.svg/200px-NRJ_Logo.svg.png",
+    "imageURL": "https://static.wikia.nocookie.net/logopedia/images/d/d9/NRJ_Hits.png/revision/latest?cb=20100320133333",
     "desc": "France's top hit music station, broadcasting internationally.",
     "longDesc": "NRJ (Nouvelle Radio Jeune) is a French multimedia group known for its popular hit music radio station. NRJ Hits plays a mix of contemporary pop, dance, and R&B music, and is accessible in various countries through online streaming."
   },
